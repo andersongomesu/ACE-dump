@@ -1,6 +1,3 @@
----
-layout: default
----
 <div align="center">
 <h1>Associate Cloud Engineer Dump</h1>
 
