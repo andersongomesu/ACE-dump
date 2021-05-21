@@ -508,7 +508,7 @@ https://cloud.google.com/deployment-manager/docs/deployments/updating-deploym
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image1.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image1.jpg">
 </div>
 
 - A: Cloud Pub/Sub, Cloud Dataflow, Cloud Datastore, BigQuery
@@ -933,7 +933,7 @@ https://cloud.google.com/storage/docs/uploads-downloads#parallel-composite-uploa
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image2.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image2.jpg">
 </div>
 
 <span style>
@@ -1187,7 +1187,7 @@ https://cloud.google.com/bigquery/docs/access-control
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image3.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image3.jpg">
 </div>
 
 <span style>
@@ -1621,7 +1621,7 @@ https://cloud.google.com/container-registry/docs/access-control
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image4.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image4.jpg">
 </div>
 
 <span style>
@@ -1629,7 +1629,7 @@ https://cloud.google.com/container-registry/docs/access-control
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image5.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image5.jpg">
 </div>
 
 <span style>
@@ -2130,7 +2130,7 @@ https://cloud.google.com/data-catalog/docs/how-to/search#how_to_search_for_data_
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image6.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image6.jpg">
 </div>
 
 <span style>
@@ -2227,7 +2227,7 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/sandbox-pods
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image7.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image7.jpg">
 </div>
 
 <span style>
@@ -2241,7 +2241,7 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/sandbox-pods
 - D: Create a secondary index using the following Data Definition Language (DDL): 
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE/main/assets/images/image7.jpg">
+  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image7.jpg">
 </div>
 
 <details><summary><b>Answer</b></summary>
