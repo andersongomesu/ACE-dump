@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<script data-ad-client="ca-pub-1697706202362799" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <div align="center">
 <h1>Associate Cloud Engineer Dump</h1>
 
