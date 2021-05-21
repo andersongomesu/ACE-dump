@@ -3,8 +3,8 @@ layout: default
 ---
 <script data-ad-client="ca-pub-1697706202362799" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-<link rel="shortcut icon" type="image/png" 
-      href="{{ "/assets/images/favicon.png"  | absolute_url }}">
+<link rel="shortcut icon" type="image/x-icon" 
+      href="{{ "/assets/images/favicon.ico"  | absolute_url }}">
       
 <div align="center">
  
