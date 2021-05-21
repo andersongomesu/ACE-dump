@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.html
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+utterances:
+  repo: "https://github.com/ghodei/ACE"
+  issue-term: "pathname"
+  label: "utteranc.es"
+  theme: "github-dark"
+theme: jekyll-theme-hacker
