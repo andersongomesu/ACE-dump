@@ -1521,7 +1521,8 @@ You need a streamlined solution to grant the correct permissions to your support
 - A: Add the support team group to the roles/monitoring.viewer role.
 - B: Add the support team group to the roles/spanner.databaseUser role.
 - C: Add the support team group to the roles/spanner.databaseReader role.
-- D: Add the support team group to the roles/stackdriver.accounts.viewer role.
+- D: Add the support team group to the roles/stackdriver.accounts
+      .viewer role.
 
 <details><summary><b>Answer</b></summary>
 <p>
