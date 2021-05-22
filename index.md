@@ -17,7 +17,7 @@ All the questions posted here come from real exams made by Google.
 <b>DISCLAIMER:</b> Some answers may be wrong, just in case check them out for yourselves.
 
  
- Last updated: <b>May 16th</b>
+ Last updated: <b>16th May 2021</b>
 </pre>
 </div>
 
@@ -4080,3 +4080,9 @@ Google Cloud to match these requirements. What should you do?**
 
 </p>
 </details>
+      
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="367BPNPFS39XS" />
+<input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_ES/i/scr/pixel.gif" width="1" height="1" />
+</form>
