@@ -3867,7 +3867,8 @@ https://cloud.google.com/load-balancing/docs/network
 - A: Use the command gcloud auth login and point it to the private key.
 - B: Use the command gcloud auth activate-service-account and point it to the private key.
 - C: Place the private key file in the installation directory of the Cloud SDK and rename it to “credentials.json”.
-- D: Place the private key file in your home directory and rename it to “GOOGLE_APPLICATION_CREDENTIALS”.
+- D: Place the private key file in your home directory and rename it to “GOOGLE_APPLICATION
+      _CREDENTIALS”.
 
 <details><summary><b>Answer</b></summary>
 <p>
