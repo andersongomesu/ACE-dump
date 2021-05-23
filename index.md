@@ -166,7 +166,7 @@ https://cloud.google.com/storage/docs/storage-classes#nearline
 - A: Contact cloud-billing@google.com with your bank account details and request a corporate billing account for your company.
 - B: Create a ticket with Google Support and wait for their call to share your credit card details over the phone.
 - C: In the Google Platform Console, go to the Resource Manage and move all projects to the root Organization.
-- D: 192.168.0.0/16
+- D: In the Google Cloud Platform Console, create a new billing account and set up a payment method.
 
 <details><summary><b>Answer</b></summary>
 <p>
