@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<meta name=”viewport” content=”width=device-width, initial-scale=1″>
 <script data-ad-client="ca-pub-1697706202362799" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <link rel="shortcut icon" type="image/x-icon" 
