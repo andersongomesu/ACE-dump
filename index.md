@@ -39,11 +39,11 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
       
 </p>
 </details>
-Check out [this link][website] if you want to see or propose another answer.
+Check out [this link][website] if you want to see or propose another answer for the [Question #1].
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=2
 
-###### 2.
+### 2.
 
 <span style>
 **You need to create a custom VPC with a single subnet. The subnet's range must be as large as possible. Which range should you use?**
@@ -68,7 +68,7 @@ Check out [this link][website] if you want to see or propose another answer.
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=4
 
-###### 3.
+### 3.
 
 <span style>
 **You want to select and configure a cost-effective solution for relational data on Google Cloud Platform. You are working with a small set of operational data in one geographic location. You need to support point-in-time recovery. What should you do?**
@@ -93,7 +93,7 @@ Check out [this link][website] if you want to see or propose another answer.
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=5
 
-###### 4.
+### 4.
 
 <span style>
 **You want to configure autohealing for network load balancing for a group of Compute Engine instances that run in multiple zones, using the fewest possible steps.
@@ -119,7 +119,7 @@ Check out [this link][website] if you want to see or propose another answer.
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=6
 
-###### 5.
+### 5.
 
 <span style>
 **You are using multiple configurations for gcloud. You want to review the configured Kubernetes Engine cluster of an inactive configuration using the fewest possible steps. What should you do?**
@@ -144,7 +144,7 @@ Check out [this link][website] if you want to see or propose another answer.
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=7
 
-###### 6.
+### 6.
 
 <span style>
 **Your company uses Cloud Storage to store application backup files for disaster recovery purposes. You want to follow Google's recommended practices. Which storage option should you use?**
@@ -166,7 +166,7 @@ https://cloud.google.com/storage/docs/storage-classes#nearline
 </p>
 </details>
 
-###### 7.
+### 7.
 
 <span style>
 **Several employees at your company have been creating projects with Cloud Platform and paying for it with their personal credit cards, which the company reimburses. The company wants to centralize all these projects under a single, new billing account. What should you do?**
@@ -188,7 +188,7 @@ hhttps://www.whizlabs.com/blog/google-cloud-interview-questions/
 </p>
 </details>
 
-###### 8.
+### 8.
 
 <span style>
 **You have an application that looks for its licensing server on the IP 10.0.3.21. You need to deploy the licensing server on Compute Engine. You do not want to change the configuration of the application and want the application to be able to reach the licensing server. What should you do?**
@@ -210,7 +210,7 @@ hhttps://www.whizlabs.com/blog/google-cloud-interview-questions/
 </p>
 </details>
 
-###### 9.
+### 9.
 
 <span style>
 **You are deploying an application to App Engine. You want the number of instances to scale based on request rate. You need at least 3 unoccupied instances at all times. Which scaling type should you use?**
@@ -232,7 +232,7 @@ https://cloud.google.com/appengine/docs/standard/python/how-instances-are-manage
 </p>
 </details>
 
-###### 10.
+### 10.
 
 <span style>
 **You have a development project with appropriate IAM roles defined. You are creating a production project and want to have the same IAM roles on the new project, using the fewest possible steps. What should you do?**
@@ -254,7 +254,7 @@ https://cloud.google.com/sdk/gcloud/reference/iam/roles/copy
 </p>
 </details>
 
-###### 11.
+### 11.
 
 <span style>
 **You need a dynamic way of provisioning VMs on Compute Engine. The exact specifications will be in a dedicated configuration file. You want to follow Google's recommended practices. Which method should you use?**
@@ -276,7 +276,7 @@ https://cloud.google.com/deployment-manager?hl=en
 </p>
 </details>
 
-###### 12.
+### 12.
 
 <span style>
 **You have a Dockerfile that you need to deploy on Kubernetes Engine. What should you do?**
@@ -298,7 +298,7 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
 </p>
 </details>
 
-###### 13.
+### 13.
 
 <span style>
 **Your development team needs a new Jenkins server for their project. You need to deploy the server using the fewest steps possible. What should you do?**
@@ -320,7 +320,7 @@ https://cloud.google.com/solutions/using-jenkins-for-distributed-builds-on-compu
 </p>
 </details>
 
-###### 14.
+### 14.
 
 <span style>
 **You need to update a deployment in Deployment Manager without any resource downtime in the deployment. Which command should you use?**
@@ -342,7 +342,7 @@ https://cloud.google.com/sdk/gcloud/reference/deployment-manager/deployments/upd
 </p>
 </details>
 
-###### 15.
+### 15.
 
 <span style>
 **You need to run an important query in BigQuery but expect it to return a lot of records. You want to find out how much it will cost to run the query. You are using on-demand pricing. What should you do?**
@@ -364,7 +364,7 @@ https://cloud.google.com/bigquery/docs/estimate-costs
 </p>
 </details>
 
-###### 16.
+### 16.
 
 <span style>
 **You have a single binary application that you want to run on Google Cloud Platform. You decided to automatically scale the application based on underlying infrastructure CPU usage. Your organizational policies require you to use virtual machines directly. You need to ensure that the application scaling is operationally efficient and completed as quickly as possible. What should you do?**
@@ -386,7 +386,7 @@ https://cloud.google.com/bigquery/docs/estimate-costs
 </p>
 </details>
 
-###### 17.
+### 17.
 
 <span style>
 **You are analyzing Google Cloud Platform service costs from three separate projects. You want to use this information to create service cost estimates by service type, daily and monthly, for the next six months using standard query syntax. What should you do?**
@@ -408,7 +408,7 @@ https://cloud.google.com/bigquery/docs/estimate-costs
 </p>
 </details>
 
-###### 18.
+### 18.
 
 <span style>
 **You need to set up a policy so that videos stored in a specific Cloud Storage Regional bucket are moved to Coldline after 90 days, and then deleted after one year from their creation. How should you set up the policy?**
@@ -430,7 +430,7 @@ https://cloud.google.com/storage/docs/lifecycle#age
 </p>
 </details>
 
-###### 19.
+### 19.
 
 <span style>
 **You have a Linux VM that must connect to Cloud SQL. You created a service account with the appropriate access rights. You want to make sure that the VM uses this service account instead of the default Compute Engine service account. What should you do?**
@@ -452,7 +452,7 @@ https://cloud.google.com/iam/docs/creating-managing-service-account-keys
 </p>
 </details>
 
-###### 20.
+### 20.
 
 <span style>
 **You created an instance of SQL Server 2017 on Compute Engine to test features in the new version. You want to connect to this instance using the fewest number of steps. What should you do?**
@@ -474,7 +474,7 @@ https://medium.com/falafel-software/sql-server-in-the-google-cloud-a17e8a1f11ce
 </p>
 </details>
 
-###### 21.
+### 21.
 
 <span style>
 **You have one GCP account running in your default region and zone and another account running in a non-default region and zone. You want to start a new
@@ -497,7 +497,7 @@ https://cloud.google.com/vpc/docs/vpc#manually_created_subnet_ip_ranges
 </p>
 </details>
 
-###### 22.
+### 22.
 
 <span style>
 **You significantly changed a complex Deployment Manager template and want to confirm that the dependencies of all defined resources are properly met before committing it to the project. You want the most rapid feedback on your changes. What should you do?**
@@ -519,7 +519,7 @@ https://cloud.google.com/deployment-manager/docs/deployments/updating-deploym
 </p>
 </details>
 
-###### 23.
+### 23.
 
 <span style>
 **You are building a pipeline to process time-series data. Which Google Cloud Platform services should you put in boxes 1,2,3, and 4?**
@@ -545,7 +545,7 @@ https://cloud.google.com/solutions/correlating-time-series-dataflow
 </details>
 
 
-###### 24.
+### 24.
 
 <span style>
 **You have a project for your App Engine application that serves a development environment. The required testing has succeeded and you want to create a new project to serve as your production environment. What should you do?**
@@ -567,7 +567,7 @@ https://cloud.google.com/solutions/correlating-time-series-dataflow
 </p>
 </details>
 
-###### 25.
+### 25.
 
 <span style>
 **You need to configure IAM access audit logging in BigQuery for external auditors. You want to follow Google-recommended practices. What should you do?**
@@ -589,7 +589,7 @@ https://cloud.google.com/iam/docs/job-functions/auditing#scenario_external_audit
 </p>
 </details>
 
-###### 26.
+### 26.
 
 <span style>
 **You need to set up permissions for a set of Compute Engine instances to enable them to write data into a particular Cloud Storage bucket. You want to follow
@@ -616,7 +616,7 @@ https://cloud.google.com/storage/docs/access-control/iam-roles
 </p>
 </details>
 
-###### 27.
+### 27.
 
 <span style>
 **You have sensitive data stored in three Cloud Storage buckets and have enabled data access logging. You want to verify activities for a particular user for these buckets, using the fewest possible steps. You need to verify the addition of metadata labels and which files have been viewed from those buckets. What should you do?**
@@ -638,7 +638,7 @@ https://cloud.google.com/logging/docs/audit#viewing_audit_logs
 </p>
 </details>
 
-###### 28.
+### 28.
 
 <span style>
 **You are the project owner of a GCP project and want to delegate control to colleagues to manage buckets and files in Cloud Storage. You want to follow Google- recommended practices. Which IAM roles should you grant your colleagues?**
@@ -660,7 +660,7 @@ https://cloud.google.com/storage/docs/access-control/iam-roles#standard-roles
 </p>
 </details>
 
-###### 29.
+### 29.
 
 <span style>
 **You have an object in a Cloud Storage bucket that you want to share with an external company. The object contains sensitive data. You want access to the content to be removed after four hours. The external company does not have a Google account to which you can grant specific user-based access privileges. You want to use the most secure method that requires the fewest steps. What should you do?**
@@ -682,7 +682,7 @@ https://cloud.google.com/storage/docs/access-control/signed-urls
 </p>
 </details>
 
-###### 30.
+### 30.
 
 <span style>
 **You are creating a Google Kubernetes Engine (GKE) cluster with a cluster autoscaler feature enabled. You need to make sure that each node of the cluster will run a monitoring pod that sends container metrics to a third-party monitoring solution. What should you do?**
@@ -704,7 +704,7 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/daemonset#usage_pattern
 </p>
 </details>
 
-###### 31.
+### 31.
 
 <span style>
 **You want to send and consume Cloud Pub/Sub messages from your App Engine application. The Cloud Pub/Sub API is currently disabled. You will use a service account to authenticate your application to the API. You want to make sure your application can use Cloud Pub/Sub. What should you do?**
@@ -726,7 +726,7 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/daemonset#usage_pattern
 </p>
 </details>
 
-###### 32.
+### 32.
 
 <span style>
 **You need to monitor resources that are distributed over different projects in Google Cloud Platform. You want to consolidate reporting under the same Stackdriver
@@ -749,7 +749,7 @@ Monitoring dashboard. What should you do?**
 </p>
 </details>
 
-###### 33.
+### 33.
 
 <span style>
 **You are deploying an application to a Compute Engine VM in a managed instance group. The application must be running at all times, but only a single instance of the VM should run per GCP project. How should you configure the instance group?**
@@ -771,7 +771,7 @@ https://cloud.google.com/compute/docs/autoscaler
 </p>
 </details>
 
-###### 34.
+### 34.
 
 <span style>
 **You want to verify the IAM users and roles assigned within a GCP project named my-project. What should you do?**
@@ -794,7 +794,7 @@ https://cloud.google.com/compute/docs/autoscaler
 </details>
 
 
-###### 35.
+### 35.
 
 <span style>
 **You need to create a new billing account and then link it with an existing Google Cloud Platform project. What should you do?**
@@ -816,7 +816,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 36.
+### 36.
 
 <span style>
 **You have one project called proj-sa where you manage all your service accounts. You want to be able to use a service account from this project to take snapshots of VMs running in another project called proj-vm. What should you do?**
@@ -838,7 +838,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 37.
+### 37.
 
 <span style>
 **You created a Google Cloud Platform project with an App Engine application inside the project. You initially configured the application to be served from the us- central region. Now you want the application to be served from the asia-northeast1 region. What should you do?**
@@ -860,7 +860,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 38.
+### 38.
 
 <span style>
 **You need to grant access for three users so that they can view and edit table data on a Cloud Spanner instance. What should you do?**
@@ -882,7 +882,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 39.
+### 39.
 
 <span style>
 **You create a new Google Kubernetes Engine (GKE) cluster and want to make sure that it always runs a supported and stable version of Kubernetes. What should you do?**
@@ -904,7 +904,7 @@ https://cloud.google.com/kubernetes-engine/versioning-and-upgrades
 </p>
 </details>
 
-###### 40.
+### 40.
 
 <span style>
 **You have an instance group that you want to load balance. You want the load balancer to terminate the client SSL session. The instance group is used to serve a public web application over HTTPS. You want to follow Google-recommended practices. What should you do?**
@@ -926,7 +926,7 @@ https://cloud.google.com/load-balancing/docs/https/
 </p>
 </details>
 
-###### 41.
+### 41.
 
 <span style>
 **You have 32 GB of data in a single file that you need to upload to a Nearline Storage bucket. The WAN connection you are using is rated at 1 Gbps, and you are the only one on the connection. You want to use as much of the rated 1 Gbps as possible to transfer the file rapidly. How should you upload the file?**
@@ -948,7 +948,7 @@ https://cloud.google.com/storage/docs/uploads-downloads#parallel-composite-uploa
 </p>
 </details>
 
-###### 42.
+### 42.
 
 <span style>
 **You’ve deployed a microservice called myapp1 to a Google Kubernetes Engine cluster using the YAML file specified below:**
@@ -978,7 +978,7 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/secret
 </p>
 </details>
 
-###### 43.
+### 43.
 
 <span style>
 **You are running an application on multiple virtual machines within a managed instance group and have autoscaling enabled. The autoscaling policy is configured so that additional instances are added to the group if the CPU utilization of instances goes above 80%. VMs are added until the instance group reaches its maximum limit of five VMs or until CPU utilization of instances lowers to 80%. The initial delay for HTTP health checks against the instances is set to 30 seconds.
@@ -1001,7 +1001,7 @@ The virtual machine instances take around three minutes to become available for 
 </p>
 </details>
 
-###### 44.
+### 44.
 
 <span style>
 **You need to select and configure compute resources for a set of batch processing jobs. These jobs take around 2 hours to complete and are run nightly. You want to minimize service costs. What should you do?**
@@ -1023,7 +1023,7 @@ The virtual machine instances take around three minutes to become available for 
 </p>
 </details>
 
-###### 45.
+### 45.
 
 <span style>
 **You recently deployed a new version of an application to App Engine and then discovered a bug in the release. You need to immediately revert to the prior version of the application. What should you do?**
@@ -1046,7 +1046,7 @@ https://cloud.google.com/run/docs/rollouts-rollbacks-traffic-migration#rollback
 </details>
 
 
-###### 46.
+### 46.
 
 <span style>
 **You deployed an App Engine application using gcloud app deploy, but it did not deploy to the intended project. You want to find out why this happened and where the application deployed. What should you do?**
@@ -1068,7 +1068,7 @@ https://cloud.google.com/run/docs/rollouts-rollbacks-traffic-migration#rollback
 </p>
 </details>
 
-###### 47.
+### 47.
 
 <span style>
 **You want to configure 10 Compute Engine instances for availability when maintenance occurs. Your requirements state that these instances should attempt to automatically restart if they crash. Also, the instances should be highly available including during system maintenance. What should you do?**
@@ -1090,7 +1090,7 @@ https://cloud.google.com/compute/docs/instances/setting-instance-scheduling-opti
 </p>
 </details>
 
-###### 48.
+### 48.
 
 <span style>
 **You host a static website on Cloud Storage. Recently, you began to include links to PDF files on this site. Currently, when users click on the links to these PDF files, their browsers prompt them to save the file onto their local system. Instead, you want the clicked PDF files to be displayed within the browser window directly, without prompting the user to save the file locally. What should you do?**
@@ -1112,7 +1112,7 @@ https://cloud.google.com/compute/docs/instances/setting-instance-scheduling-opti
 </p>
 </details>
 
-###### 49.
+### 49.
 
 <span style>
 **You have a virtual machine that is currently configured with 2 vCPUs and 4 GB of memory. It is running out of memory. You want to upgrade the virtual machine to have 8 GB of memory. What should you do?**
@@ -1134,7 +1134,7 @@ https://cloud.google.com/compute/docs/instances/setting-instance-scheduling-opti
 </p>
 </details>
 
-###### 50.
+### 50.
 
 <span style>
 **You have production and test workloads that you want to deploy on Compute Engine. Production VMs need to be in a different subnet than the test VMs. All the
@@ -1157,7 +1157,7 @@ VMs must be able to reach each other over Internal IP without creating additiona
 </p>
 </details>
 
-###### 51.
+### 51.
 
 <span style>
 **You need to create an autoscaling managed instance group for an HTTPS web application. You want to make sure that unhealthy VMs are recreated. What should you do?**
@@ -1179,7 +1179,7 @@ VMs must be able to reach each other over Internal IP without creating additiona
 </p>
 </details>
 
-###### 52.
+### 52.
 
 <span style>
 **Your company has a Google Cloud Platform project that uses BigQuery for data warehousing. Your data science team changes frequently and has few members.
@@ -1202,7 +1202,7 @@ https://cloud.google.com/bigquery/docs/access-control
 </p>
 </details>
 
-###### 53.
+### 53.
 
 <span style>
 **Your company has a 3-tier solution running on Compute Engine. The configuration of the current infrastructure is shown below.**
@@ -1235,7 +1235,7 @@ What should you do?**
 </p>
 </details>
 
-###### 54.
+### 54.
 
 <span style>
 **You are given a project with a single Virtual Private Cloud (VPC) and a single subnetwork in the us-central1 region. There is a Compute Engine instance hosting an application in this subnetwork. You need to deploy a new instance in the same project in the europe-west1 region. This new instance needs access to the application. You want to follow Google-recommended practices. What should you do?**
@@ -1257,7 +1257,7 @@ What should you do?**
 </p>
 </details>
 
-###### 55.
+### 55.
 
 <span style>
 **Your projects incurred more costs than you expected last month. Your research reveals that a development GKE container emitted a huge number of logs, which resulted in higher costs. You want to disable the logs quickly using the minimum number of steps. What should you do?**
@@ -1279,7 +1279,7 @@ What should you do?**
 </p>
 </details>
 
-###### 56.
+### 56.
 
 <span style>
 **You have a website hosted on App Engine standard environment. You want 1% of your users to see a new test version of the website. You want to minimize complexity. What should you do?**
@@ -1302,7 +1302,7 @@ What should you do?**
 </details>
 
 
-###### 57.
+### 57.
 
 <span style>
 **You have a web application deployed as a managed instance group. You have a new version of the application to gradually deploy. Your web application is currently receiving live web traffic. You want to ensure that the available capacity does not decrease during the deployment. What should you do?**
@@ -1324,7 +1324,7 @@ https://cloud.google.com/compute/docs/instance-groups/rolling-out-updates-to-man
 </p>
 </details>
 
-###### 58.
+### 58.
 
 <span style>
 **You are building an application that stores relational data from users. Users across the globe will use this application. Your CTO is concerned about the scaling requirements because the size of the user base is unknown. You need to implement a database solution that can scale with your user growth with minimum configuration changes. Which storage solution should you use?**
@@ -1346,7 +1346,7 @@ https://cloud.google.com/compute/docs/instance-groups/rolling-out-updates-to-man
 </p>
 </details>
 
-###### 59.
+### 59.
 
 <span style>
 **You are the organization and billing administrator for your company. The engineering team has the Project Creator role in the organization. You do not want the engineering team to be able to link projects to the billing account. Only the finance team should be able to link a project to a billing account, but they should not be able to make any other changes to projects. What should you do?**
@@ -1368,7 +1368,7 @@ https://cloud.google.com/billing/docs/how-to/modify-project#permissions_required
 </p>
 </details>
 
-###### 60.
+### 60.
 
 <span style>
 **You have an application running in Google Kubernetes Engine (GKE) with cluster autoscaling enabled. The application exposes a TCP endpoint. There are several replicas of this application. You have a Compute Engine instance in the same region, but in another Virtual Private Cloud (VPC), called gce-network, that has no overlapping IP ranges with the first VPC. This instance needs to connect to the application on GKE. You want to minimize effort. What should you do?**
@@ -1390,7 +1390,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/internal-load-balancing
 </p>
 </details>
 
-###### 61.
+### 61.
 
 <span style>
 **Your organization is a financial company that needs to store audit log files for 3 years. Your organization has hundreds of Google Cloud projects. You need to implement a cost-effective approach for log file retention. What should you do?**
@@ -1412,7 +1412,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/internal-load-balancing
 </p>
 </details>
 
-###### 62.
+### 62.
 
 <span style>
 **You want to run a single caching HTTP reverse proxy on GCP for a latency-sensitive website. This specific reverse proxy consumes almost no CPU. You want to have a 30-GB in-memory cache, and need an additional 2 GB of memory for the rest of the processes. You want to minimize cost. How should you run this reverse proxy?**
@@ -1434,7 +1434,7 @@ https://cloud.google.com/memorystore/docs/redis/redis-overview#what_its_good_for
 </p>
 </details>
 
-###### 63.
+### 63.
 
 <span style>
 **You are hosting an application on bare-metal servers in your own data center. The application needs access to Cloud Storage. However, security policies prevent the servers hosting the application from having public IP addresses or access to the internet. You want to follow Google-recommended practices to provide the application with access to Cloud Storage. What should you do?**
@@ -1456,7 +1456,7 @@ https://cloud.google.com/vpc/docs/configure-private-google-access-hybrid
 </p>
 </details>
 
-###### 64.
+### 64.
 
 <span style>
 **You want to deploy an application on Cloud Run that processes messages from a Cloud Pub/Sub topic. You want to follow Google-recommended practices. What should you do?**
@@ -1478,7 +1478,7 @@ https://cloud.google.com/run/docs/tutorials/pubsub#integrating-pubsub
 </p>
 </details>
 
-###### 65.
+### 65.
 
 <span style>
 **You need to deploy an application, which is packaged in a container image, in a new project. The application exposes an HTTP endpoint and receives very few requests per day. You want to minimize costs. What should you do?**
@@ -1500,7 +1500,7 @@ https://cloud.google.com/run/docs/tutorials/pubsub#integrating-pubsub
 </p>
 </details>
 
-###### 66.
+### 66.
 
 <span style>
 **Your company has an existing GCP organization with hundreds of projects and a billing account. Your company recently acquired another company that also has hundreds of projects and its own billing account. You would like to consolidate all GCP costs of both GCP organizations onto a single invoice. You would like to consolidate all costs as of tomorrow. What should you do?**
@@ -1522,7 +1522,7 @@ https://cloud.google.com/run/docs/tutorials/pubsub#integrating-pubsub
 </p>
 </details>
 
-###### 67.
+### 67.
 
 <span style>
 **You built an application on Google Cloud that uses Cloud Spanner. Your support team needs to monitor the environment but should not have access to table data.
@@ -1547,7 +1547,7 @@ You need a streamlined solution to grant the correct permissions to your support
 </details>
 
 
-###### 68.
+### 68.
 
 <span style>
 **For analysis purposes, you need to send all the logs from all of your Compute Engine instances to a BigQuery dataset called platform-logs. You have already installed the Cloud Logging agent on all the instances. You want to minimize cost. What should you do**
@@ -1569,7 +1569,7 @@ https://cloud.google.com/logging/docs/export/configure_export_v2
 </p>
 </details>
 
-###### 69.
+### 69.
 
 <span style>
 **You are using Deployment Manager to create a Google Kubernetes Engine cluster. Using the same Deployment Manager deployment, you also want to create a
@@ -1592,7 +1592,7 @@ https://cloud.google.com/deployment-manager/docs/configuration/type-providers/cr
 </p>
 </details>
 
-###### 70.
+### 70.
 
 <span style>
 **You are building an application that will run in your data center. The application will use Google Cloud Platform (GCP) services like AutoML. You created a service account that has appropriate access to AutoML. You need to enable authentication to the APIs from your on-premises environment. What should you do?**
@@ -1614,7 +1614,7 @@ https://cloud.google.com/iam/docs/creating-managing-service-account-keys
 </p>
 </details>
 
-###### 71.
+### 71.
 
 <span style>
 **You are using Container Registry to centrally store your company’s container images in a separate project. In another project, you want to create a Google
@@ -1637,7 +1637,7 @@ https://cloud.google.com/container-registry/docs/access-control
 </p>
 </details>
 
-###### 72.
+### 72.
 
 <span style>
 **You deployed a new application inside your Google Kubernetes Engine cluster using the YAML file specified below.**
@@ -1675,7 +1675,7 @@ https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#de
 </p>
 </details>
 
-###### 73.
+### 73.
 
 <span style>
 **You are setting up a Windows VM on Compute Engine and want to make sure you can log in to the VM via RDP. What should you do?**
@@ -1697,7 +1697,7 @@ https://cloud.google.com/sdk/gcloud/reference/beta/compute/reset-windows-passwor
 </p>
 </details>
 
-###### 74.
+### 74.
 
 <span style>
 **You want to configure an SSH connection to a single Compute Engine instance for users in the dev1 group. This instance is the only resource in this particular
@@ -1720,7 +1720,7 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
 </p>
 </details>
 
-###### 75.
+### 75.
 
 <span style>
 **You need to produce a list of the enabled Google Cloud Platform APIs for a GCP project using the gcloud command line in the Cloud Shell. The project name is my-project. What should you do?**
@@ -1742,7 +1742,7 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
 </p>
 </details>
 
-###### 76.
+### 76.
 
 <span style>
 **You are building a new version of an application hosted in an App Engine environment. You want to test the new version with 1% of users before you completely switch your application over to the new version. What should you do?**
@@ -1764,7 +1764,7 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
 </p>
 </details>
 
-###### 77.
+### 77.
 
 <span style>
 **You need to provide a cost estimate for a Kubernetes cluster using the GCP pricing calculator for Kubernetes. Your workload requires high IOPs, and you will also be using disk snapshots. You start by entering the number of nodes, average hours, and average days. What should you do next?**
@@ -1786,7 +1786,7 @@ https://cloud.google.com/products/calculator
 </p>
 </details>
 
-###### 78.
+### 78.
 
 <span style>
 **You are using Google Kubernetes Engine with autoscaling enabled to host a new application. You want to expose this new application to the public, using HTTPS on a public IP address. What should you do?**
@@ -1809,7 +1809,7 @@ https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-w
 </details>
 
 
-###### 79.
+### 79.
 
 <span style>
 **You need to enable traffic between multiple groups of Compute Engine instances that are currently running two different GCP projects. Each group of Compute
@@ -1832,7 +1832,7 @@ https://cloud.google.com/vpc/docs/shared-vpc
 </p>
 </details>
 
-###### 80.
+### 80.
 
 <span style>
 **You want to add a new auditor to a Google Cloud Platform project. The auditor should be allowed to read, but not modify, all project items.
@@ -1855,7 +1855,7 @@ How should you configure the auditor's permissions?**
 </p>
 </details>
 
-###### 81.
+### 81.
 
 <span style>
 **You are operating a Google Kubernetes Engine (GKE) cluster for your company where different teams can run non-production workloads. Your Machine Learning
@@ -1878,7 +1878,7 @@ https://cloud.google.com/kubernetes-engine/docs/how-to/gpus
 </p>
 </details>
 
-###### 82.
+### 82.
 
 <span style>
 **Your VMs are running in a subnet that has a subnet mask of 255.255.255.240. The current subnet has no more free IP addresses and you require an additional
@@ -1901,7 +1901,7 @@ https://cloud.google.com/sdk/gcloud/reference/compute/networks/subnets/expand-ip
 </p>
 </details>
 
-###### 83.
+### 83.
 
 <span style>
 **Your organization uses G Suite for communication and collaboration. All users in your organization have a G Suite account. You want to grant some G Suite users access to your Cloud Platform project. What should you do?**
@@ -1923,7 +1923,7 @@ https://cloud.google.com/resource-manager/docs/creating-managing-organization
 </p>
 </details>
 
-###### 84.
+### 84.
 
 <span style>
 **You have a Google Cloud Platform account with access to both production and development projects. You need to create an automated process to list all compute instances in development and production projects on a daily basis. What should you do?**
@@ -1945,7 +1945,7 @@ https://cloud.google.com/resource-manager/docs/creating-managing-organization
 </p>
 </details>
 
-###### 85.
+### 85.
 
 <span style>
 **You have a large 5-TB AVRO file stored in a Cloud Storage bucket. Your analysts are proficient only in SQL and need access to the data stored in this file. You want to find a cost-effective way to complete their request as soon as possible. What should you do?**
@@ -1967,7 +1967,7 @@ https://cloud.google.com/bigquery/external-data-sources
 </p>
 </details>
 
-###### 86.
+### 86.
 
 <span style>
 **You need to verify that a Google Cloud Platform service account was created at a particular time. What should you do?**
@@ -1989,7 +1989,7 @@ https://cloud.google.com/bigquery/external-data-sources
 </p>
 </details>
 
-###### 87.
+### 87.
 
 <span style>
 **You deployed an LDAP server on Compute Engine that is reachable via TLS through port 636 using UDP. You want to make sure it is reachable by clients over that port. What should you do?**
@@ -2011,7 +2011,7 @@ https://cloud.google.com/bigquery/external-data-sources
 </p>
 </details>
 
-###### 88.
+### 88.
 
 <span style>
 **You need to set a budget alert for use of Compute Engineer services on one of the three Google Cloud Platform projects that you manage. All three projects are linked to a single billing account. What should you do?**
@@ -2033,7 +2033,7 @@ https://cloud.google.com/bigquery/external-data-sources
 </p>
 </details>
 
-###### 89.
+### 89.
 
 <span style>
 **You are migrating a production-critical on-premises application that requires 96 vCPUs to perform its task. You want to make sure the application runs in a similar environment on GCP. What should you do?**
@@ -2056,7 +2056,7 @@ https://cloud.google.com/compute/docs/machine-types
 </details>
 
 
-###### 90.
+### 90.
 
 <span style>
 **You want to configure a solution for archiving data in a Cloud Storage bucket. The solution must be cost-effective. Data with multiple versions should be archived after 30 days. Previous versions are accessed once a month for reporting. This archive data is also occasionally updated at month-end. What should you do?**
@@ -2078,7 +2078,7 @@ https://cloud.google.com/storage/docs/managing-lifecycles
 </p>
 </details>
 
-###### 91.
+### 91.
 
 <span style>
 **Your company’s infrastructure is on-premises, but all machines are running at maximum capacity. You want to burst to Google Cloud. The workloads on Google
@@ -2101,7 +2101,7 @@ Cloud must be able to directly communicate to the workloads on-premises using a 
 </p>
 </details>
 
-###### 92.
+### 92.
 
 <span style>
 **You want to select and configure a solution for storing and archiving data on Google Cloud Platform. You need to support compliance objectives for data from one geographic location. This data is archived after 30 days and needs to be accessed annually. What should you do?**
@@ -2123,7 +2123,7 @@ https://cloud.google.com/storage/docs/storage-classes
 </p>
 </details>
 
-###### 93.
+### 93.
 
 <span style>
 **Your company uses BigQuery for data warehousing. Over time, many different business units in your company have created 1000+ datasets across hundreds of projects. Your CIO wants you to examine all datasets to find tables that contain an employee_ssn column. You want to minimize effort in performing this task.
@@ -2146,7 +2146,7 @@ https://cloud.google.com/data-catalog/docs/how-to/search#how_to_search_for_data_
 </p>
 </details>
 
-###### 94.
+### 94.
 
 <span style>
 **You create a Deployment with 2 replicas in a Google Kubernetes Engine cluster that has a single preemptible node pool. After a few minutes, you use kubectl to examine the status of your Pod and observe that one of them is still in Pending status:**
@@ -2176,7 +2176,7 @@ https://managedkube.com/kubernetes/k8sbot/troubleshooting/pending/pod/2019/02/22
 </p>
 </details>
 
-###### 95.
+### 95.
 
 <span style>
 **You want to find out when users were added to Cloud Spanner Identity Access Management (IAM) roles on your Google Cloud Platform (GCP) project. What should you do in the GCP Console?**
@@ -2198,7 +2198,7 @@ https://managedkube.com/kubernetes/k8sbot/troubleshooting/pending/pod/2019/02/22
 </p>
 </details>
 
-###### 96.
+### 96.
 
 <span style>
 **Your company implemented BigQuery as an enterprise data warehouse. Users from multiple business units run queries on this data warehouse. However, you notice that query costs for BigQuery are very high, and you need to control costs. Which two methods should you use? (Choose two.)**
@@ -2221,7 +2221,7 @@ https://managedkube.com/kubernetes/k8sbot/troubleshooting/pending/pod/2019/02/22
 </p>
 </details>
 
-###### 97.
+### 97.
 
 <span style>
 **You are building a product on top of Google Kubernetes Engine (GKE). You have a single GKE cluster. For each of your customers, a Pod is running in that cluster, and your customers can run arbitrary code inside their Pod. You want to maximize the isolation between your customer's Pods. What should you do?**
@@ -2243,7 +2243,7 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/sandbox-pods
 </p>
 </details>
 
-###### 98.
+### 98.
 
 <span style>
 **Your customer has implemented a solution that uses Cloud Spanner and notices some read latency-related performance issues on one table. This table is accessed only by their users using a primary key. The table schema is shown below.**
@@ -2277,7 +2277,7 @@ https://cloud.google.com/spanner/docs/schema-design
 </p>
 </details>
 
-###### 99.
+### 99.
 
 <span style>
 **Your finance team wants to view the billing report for your projects. You want to make sure that the finance team does not get additional permissions to the project. What should you do?**
@@ -2299,7 +2299,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 100.
+### 100.
 
 <span style>
 **Your organization has strict requirements to control access to Google Cloud projects. You need to enable your Site Reliability Engineers (SREs) to approve requests from the Google Cloud support team when an SRE opens a support case. You want to follow Google-recommended practices. What should you do?**
@@ -2322,7 +2322,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </details>
 
 
-###### 101.
+### 101.
 
 <span style>
 **You need to host an application on a Compute Engine instance in a project shared with other teams. You want to prevent the other teams from accidentally causing downtime on that application. Which feature should you use?**
@@ -2344,7 +2344,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 102.
+### 102.
 
 <span style>
 **Your organization needs to grant users access to query datasets in BigQuery but prevent them from accidentally deleting the datasets. You want a solution that follows Google-recommended practices. What should you do?**
@@ -2366,7 +2366,7 @@ https://cloud.google.com/billing/docs/how-to/billing-access
 </p>
 </details>
 
-###### 103.
+### 103.
 
 <span style>
 **You have a developer laptop with the Cloud SDK installed on Ubuntu. The Cloud SDK was installed from the Google Cloud Ubuntu package repository. You want to test your application locally on your laptop with Cloud Datastore. What should you do?**
@@ -2388,7 +2388,7 @@ https://cloud.google.com/sdk/docs/downloads-apt-get
 </p>
 </details>
 
-###### 104.
+### 104.
 
 <span style>
 **Your company set up a complex organizational structure on Google Cloud. The structure includes hundreds of folders and projects. Only a few team members should be able to view the hierarchical structure. You need to assign minimum permissions to these team members, and you want to follow Google-recommended practices. What should you do?**
@@ -2410,7 +2410,7 @@ https://cloud.google.com/sdk/docs/downloads-apt-get
 </p>
 </details>
 
-###### 105.
+### 105.
 
 <span style>
 **Your company has a single sign-on (SSO) identity provider that supports Security Assertion Markup Language (SAML) integration with service providers. Your company has users in Cloud Identity. You would like users to authenticate using your company's SSO provider. What should you do?**
@@ -2432,7 +2432,7 @@ https://support.google.com/cloudidentity/answer/6262987?hl=en&ref_topic=7558767
 </p>
 </details>
 
-###### 106.
+### 106.
 
 <span style>
 **Your organization has a dedicated person who creates and manages all service accounts for Google Cloud projects. You need to assign this person the minimum role for projects. What should you do?**
@@ -2454,7 +2454,7 @@ https://cloud.google.com/iam/docs/creating-managing-service-accounts#permissions
 </p>
 </details>
 
-###### 107.
+### 107.
 
 <span style>
 **You are building an archival solution for your data warehouse and have selected Cloud Storage to archive your data. Your users need to be able to access this archived data once a quarter for some regulatory requirements. You want to select a cost-efficient option. Which storage option should you use?**
@@ -2476,7 +2476,7 @@ https://cloud.google.com/storage/archival
 </p>
 </details>
 
-###### 108.
+### 108.
 
 <span style>
 **A team of data scientists infrequently needs to use a Google Kubernetes Engine (GKE) cluster that you manage. They require GPUs for some long-running, non- restartable jobs. You want to minimize cost. What should you do?**
@@ -2498,7 +2498,7 @@ https://cloud.google.com/storage/archival
 </p>
 </details>
 
-###### 109.
+### 109.
 
 <span style>
 **Your organization has user identities in Active Directory. Your organization wants to use Active Directory as their source of truth for identities. Your organization wants to have full control over the Google accounts used by employees for all Google services, including your Google Cloud Platform (GCP) organization. What should you do?**
@@ -2520,7 +2520,7 @@ https://tools.google.com/dlpage/dirsync/
 </p>
 </details>
 
-###### 110.
+### 110.
 
 <span style>
 **You have successfully created a development environment in a project for an application. This application uses Compute Engine and Cloud SQL. Now you need to create a production environment for this application. The security team has forbidden the existence of network routes between these 2 environments and has asked you to follow Google-recommended practices. What should you do?**
@@ -2542,7 +2542,7 @@ https://tools.google.com/dlpage/dirsync/
 </p>
 </details>
 
-###### 111.
+### 111.
 
 <span style>
 **YYour management has asked an external auditor to review all the resources in a specific project. The security team has enabled the Organization Policy called
@@ -2566,7 +2566,7 @@ https://cloud.google.com/iam/docs/roles-audit-logging#scenario_external_auditors
 </details>
 
 
-###### 112.
+### 112.
 
 <span style>
 **You have a workload running on Compute Engine that is critical to your business. You want to ensure that the data on the boot disk of this workload is backed up regularly. You need to be able to restore a backup as quickly as possible in case of disaster. You also want older backups to be cleaned automatically to save on cost. You want to follow Google-recommended practices. What should you do?**
@@ -2588,7 +2588,7 @@ https://cloud.google.com/iam/docs/roles-audit-logging#scenario_external_auditors
 </p>
 </details>
 
-###### 113.
+### 113.
 
 <span style>
 **You need to assign a Cloud Identity and Access Management (Cloud IAM) role to an external auditor. The auditor needs to have permissions to review your
@@ -2611,7 +2611,7 @@ Google Cloud Platform (GCP) Audit Logs and also to review your Data Access logs.
 </p>
 </details>
 
-###### 114.
+### 114.
 
 <span style>
 **You are managing several Google Cloud Platform (GCP) projects and need access to all logs for the past 60 days. You want to be able to explore and quickly analyze the log contents. You want to follow Google-recommended practices to obtain the combined logs for all projects. What should you do?**
@@ -2633,7 +2633,7 @@ https://cloud.google.com/solutions/exporting-stackdriver-logging-for-security-an
 </p>
 </details>
 
-###### 115.
+### 115.
 
 <span style>
 **You need to reduce GCP service costs for a division of your company using the fewest possible steps. You need to turn off all configured services in an existing
@@ -2656,7 +2656,7 @@ https://cloud.google.com/resource-manager/docs/organization-resource-management#
 </p>
 </details>
 
-###### 116.
+### 116.
 
 <span style>
 **You are configuring service accounts for an application that spans multiple projects. Virtual machines (VMs) running in the web-applications project need access to BigQuery datasets in crm-databases-proj. You want to follow Google-recommended practices to give access to the service account in the web-applications project. What should you do?**
@@ -2678,7 +2678,7 @@ https://cloud.google.com/resource-manager/docs/organization-resource-management#
 </p>
 </details>
 
-###### 117.
+### 117.
 
 <span style>
 **An employee was terminated, but their access to Google Cloud Platform (GCP) was not removed until 2 weeks later. You need to find out this employee accessed any sensitive customer information after their termination. What should you do?**
@@ -2700,7 +2700,7 @@ https://cloud.google.com/logging/docs/audit
 </p>
 </details>
 
-###### 118.
+### 118.
 
 <span style>
 **You need to create a custom IAM role for use with a GCP service. All permissions in the role must be suitable for production use. You also want to clearly share with your organization the status of the custom role. This will be the first version of the custom role. What should you do?**
@@ -2722,7 +2722,7 @@ https://cloud.google.com/iam/docs/custom-roles-permissions-support
 </p>
 </details>
 
-###### 119.
+### 119.
 
 <span style>
 **Your company has a large quantity of unstructured data in different file formats. You want to perform ETL transformations on the data. You need to make the data accessible on Google Cloud so it can be processed by a Dataflow job. What should you do?**
@@ -2744,7 +2744,7 @@ https://cloud.google.com/solutions/performing-etl-from-relational-database-into-
 </p>
 </details>
 
-###### 120.
+### 120.
 
 <span style>
 **You need to manage multiple Google Cloud projects in the fewest steps possible. You want to configure the Google Cloud SDK command line interface (CLI) so that you can easily manage multiple projects. What should you do?**
@@ -2766,7 +2766,7 @@ https://cloud.google.com/sdk/gcloud/reference/config/set
 </p>
 </details>
 
-###### 121.
+### 121.
 
 <span style>
 **Your managed instance group raised an alert stating that new instance creation has failed to create new instances. You need to maintain the number of running instances specified by the template to be able to process expected application traffic. What should you do?**
@@ -2788,7 +2788,7 @@ https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-migs
 </p>
 </details>
 
-###### 122.
+### 122.
 
 <span style>
 **Your company is moving from an on-premises environment to Google Cloud. You have multiple development teams that use Cassandra environments as backend databases. They all need a development environment that is isolated from other Cassandra instances. You want to move to Google Cloud quickly and with minimal support effort. What should you do?**
@@ -2811,7 +2811,7 @@ https://cloud.google.com/compute/docs/troubleshooting/troubleshooting-migs
 </details>
 
 
-###### 123.
+### 123.
 
 <span style>
 **You have a Compute Engine instance hosting a production application. You want to receive an email if the instance consumes more than 90% of its CPU resources for more than 15 minutes. You want to use Google services. What should you do?**
@@ -2833,7 +2833,7 @@ https://cloud.google.com/monitoring/alerts/ui-conditions-ga
 </p>
 </details>
 
-###### 124.
+### 124.
 
 <span style>
 **You have an application that uses Cloud Spanner as a backend database. The application has a very predictable traffic pattern. You want to automatically scale up or down the number of Spanner nodes depending on traffic. What should you do?**
@@ -2855,7 +2855,7 @@ https://cloud.google.com/monitoring/alerts/ui-conditions-ga
 </p>
 </details>
 
-###### 125.
+### 125.
 
 <span style>
 **Your company publishes large files on an Apache web server that runs on a Compute Engine instance. The Apache web server is not the only application running in the project. You want to receive an email when the egress network costs for the server exceed 100 dollars for the current month as measured by Google Cloud.
@@ -2878,7 +2878,7 @@ What should you do?**
 </p>
 </details>
 
-###### 126.
+### 126.
 
 <span style>
 **You have designed a solution on Google Cloud that uses multiple Google Cloud products. Your company has asked you to estimate the costs of the solution. You need to provide estimates for the monthly total cost. What should you do?**
@@ -2900,7 +2900,7 @@ What should you do?**
 </p>
 </details>
 
-###### 127.
+### 127.
 
 <span style>
 **You have an application that receives SSL-encrypted TCP traffic on port 443. Clients for this application are located all over the world. You want to minimize latency for the clients. Which load balancing option should you use?**
@@ -2922,7 +2922,7 @@ https://cloud.google.com/load-balancing/docs/choosing-load-balancer
 </p>
 </details>
 
-###### 128.
+### 128.
 
 <span style>
 **You have an application on a general-purpose Compute Engine instance that is experiencing excessive disk read throttling on its Zonal SSD Persistent Disk. The application primarily reads large files from disk. The disk size is currently 350 GB. You want to provide the maximum amount of throughput while minimizing costs.
@@ -2945,7 +2945,7 @@ https://cloud.google.com/compute/docs/disks#performance
 </p>
 </details>
 
-###### 129.
+### 129.
 
 <span style>
 **Your Dataproc cluster runs in a single Virtual Private Cloud (VPC) network in a single subnet with range 172.16.20.128/25. There are no private IP addresses available in the VPC network. You want to add new VMs to communicate with your cluster using the minimum number of steps. What should you do?**
@@ -2967,7 +2967,7 @@ https://cloud.google.com/compute/docs/disks#performance
 </p>
 </details>
 
-###### 130.
+### 130.
 
 <span style>
 **You manage an App Engine Service that aggregates and visualizes data from BigQuery. The application is deployed with the default App Engine Service account.
@@ -2990,7 +2990,7 @@ https://cloud.google.com/bigquery/docs/access-control
 </p>
 </details>
 
-###### 131.
+### 131.
 
 <span style>
 **You need to create a copy of a custom Compute Engine virtual machine (VM) to facilitate an expected increase in application traffic due to a business acquisition.
@@ -3013,7 +3013,7 @@ https://cloud.google.com/compute/docs/instances/create-start-instance
 </p>
 </details>
 
-###### 132.
+### 132.
 
 <span style>
 **You have deployed an application on a single Compute Engine instance. The application writes logs to disk. Users start reporting errors with the application. You want to diagnose the problem. What should you do?**
@@ -3035,7 +3035,7 @@ https://cloud.google.com/logging/docs/agent
 </p>
 </details>
 
-###### 133.
+### 133.
 
 <span style>
 **An application generates daily reports in a Compute Engine virtual machine (VM). The VM is in the project corp-iot-insights. Your team operates only in the project corp-aggregate-reports and needs a copy of the daily exports in the bucket corp-aggregate-reports-storage. You want to configure access so that the daily reports from the VM are available in the bucket corp-aggregate-reports-storage and use as few steps as possible while following Google-recommended practices. What should you do?**
@@ -3058,7 +3058,7 @@ https://cloud.google.com/storage/docs/access-control/iam-roles#standard-roles
 </details>
 
 
-###### 134.
+### 134.
 
 <span style>
 **You built an application on your development laptop that uses Google Cloud services. Your application uses Application Default Credentials for authentication and works fine on your development laptop. You want to migrate this application to a Compute Engine virtual machine (VM) and set up authentication using Google- recommended practices and minimal changes. What should you do?**
@@ -3080,7 +3080,7 @@ https://cloud.google.com/compute/docs/access/create-enable-service-accounts-for-
 </p>
 </details>
 
-###### 135.
+### 135.
 
 <span style>
 **You need to create a Compute Engine instance in a new project that doesn't exist yet. What should you do?**
@@ -3102,7 +3102,7 @@ https://cloud.google.com/compute/docs/access/create-enable-service-accounts-for-
 </p>
 </details>
 
-###### 136.
+### 136.
 
 <span style>
 **Your company runs one batch process in an on-premises server that takes around 30 hours to complete. The task runs monthly, can be performed offline, and must be restarted if interrupted. You want to migrate this workload to the cloud while minimizing cost. What should you do?**
@@ -3124,7 +3124,7 @@ https://cloud.google.com/compute/docs/access/create-enable-service-accounts-for-
 </p>
 </details>
 
-###### 137.
+### 137.
 
 <span style>
 **You are developing a new application and are looking for a Jenkins installation to build and deploy your source code. You want to automate the installation as quickly and easily as possible. What should you do?**
@@ -3146,7 +3146,7 @@ https://cloud.google.com/compute/docs/access/create-enable-service-accounts-for-
 </p>
 </details>
 
-###### 138.
+### 138.
 
 <span style>
 **You have downloaded and installed the gcloud command line interface (CLI) and have authenticated with your Google Account. Most of your Compute Engine instances in your project run in the europe-west1-d zone. You want to avoid having to specify this zone with each CLI command when managing these instances.
@@ -3169,7 +3169,7 @@ What should you do?**
 </p>
 </details>
 
-###### 139.
+### 139.
 
 <span style>
 **The core business of your company is to rent out construction equipment at large scale. All the equipment that is being rented out has been equipped with multiple sensors that send event information every few seconds. These signals can vary from engine status, distance traveled, fuel level, and more. Customers are billed based on the consumption monitored by these sensors. You expect high throughput "up to thousands of events per hour per device" and need to retrieve consistent data based on the time of the event. Storing and retrieving individual signals should be atomic. What should you do?**
@@ -3191,7 +3191,7 @@ What should you do?**
 </p>
 </details>
 
-###### 140.
+### 140.
 
 <span style>
 **You are asked to set up application performance monitoring on Google Cloud projects A, B, and C as a single pane of glass. You want to monitor CPU, memory, and disk. What should you do?**
@@ -3213,7 +3213,7 @@ What should you do?**
 </p>
 </details>
 
-###### 141.
+### 141.
 
 <span style>
 **You created several resources in multiple Google Cloud projects. All projects are linked to different billing accounts. To better estimate future charges, you want to have a single visual representation of all costs incurred. You want to include new cost data as soon as possible. What should you do?**
@@ -3235,7 +3235,7 @@ https://cloud.google.com/billing/docs/how-to/visualize-data
 </p>
 </details>
 
-###### 142.
+### 142.
 
 <span style>
 **Your company has workloads running on Compute Engine and on-premises. The Google Cloud Virtual Private Cloud (VPC) is connected to your WAN over a
@@ -3258,7 +3258,7 @@ Virtual Private Network (VPN). You need to deploy a new Compute Engine instance 
 </p>
 </details>
 
-###### 143.
+### 143.
 
 <span style>
 **Your team maintains the infrastructure for your organization. The current infrastructure requires changes. You need to share your proposed changes with the rest of the team. You want to follow Google’s recommended best practices. What should you do?**
@@ -3280,7 +3280,7 @@ https://cloud.google.com/compute/docs/disks/gcs-buckets
 </p>
 </details>
 
-###### 144.
+### 144.
 
 <span style>
 **You have a Compute Engine instance hosting an application used between 9 AM and 6 PM on weekdays. You want to back up this instance daily for disaster recovery purposes. You want to keep the backups for 30 days. You want the Google-recommended solution with the least management overhead and the least number of services. What should you do?**
@@ -3303,7 +3303,7 @@ https://cloud.google.com/compute/docs/disks/scheduled-snapshots
 </details>
 
 
-###### 145.
+### 145.
 
 <span style>
 **Your existing application running in Google Kubernetes Engine (GKE) consists of multiple pods running on four GKE n1-standard-2 nodes. You need to deploy additional pods requiring n2-highmem-16 nodes without any downtime. What should you do?**
@@ -3325,7 +3325,7 @@ https://cloud.google.com/compute/docs/disks/scheduled-snapshots
 </p>
 </details>
 
-###### 146.
+### 146.
 
 <span style>
 **You have an application that uses Cloud Spanner as a database backend to keep current state information about users. Cloud Bigtable logs all events triggered by users. You export Cloud Spanner data to Cloud Storage during daily backups. One of your analysts asks you to join data from Cloud Spanner and Cloud
@@ -3348,7 +3348,7 @@ https://cloud.google.com/bigquery/external-data-sources
 </p>
 </details>
 
-###### 147.
+### 147.
 
 <span style>
 **You are hosting an application from Compute Engine virtual machines (VMs) in us-central1-a. You want to adjust your design to support the failure of a single
@@ -3371,7 +3371,7 @@ Compute Engine zone, eliminate downtime, and minimize cost. What should you do?*
 </p>
 </details>
 
-###### 148.
+### 148.
 
 <span style>
 **A colleague handed over a Google Cloud Platform project for you to maintain. As part of a security checkup, you want to review who has been granted the Project
@@ -3394,7 +3394,7 @@ https://groups.google.com/g/google-cloud-dev/c/Z6sZs7TvygQ?pli=1
 </p>
 </details>
 
-###### 149.
+### 149.
 
 <span style>
 **You are running multiple VPC-native Google Kubernetes Engine clusters in the same subnet. The IPs available for the nodes are exhausted, and you want to ensure that the clusters can grow in nodes when needed. What should you do?**
@@ -3416,7 +3416,7 @@ https://cloud.google.com/sdk/gcloud/reference/compute/networks/subnets/expand-ip
 </p>
 </details>
 
-###### 150.
+### 150.
 
 <span style>
 **You have a batch workload that runs every night and uses a large number of virtual machines (VMs). It is fault-tolerant and can tolerate some of the VMs being terminated. The current cost of VMs is too high. What should you do?**
@@ -3438,7 +3438,7 @@ https://cloud.google.com/compute/docs/instances/create-start-preemptible-instanc
 </p>
 </details>
 
-###### 151.
+### 151.
 
 <span style>
 **You are working with a user to set up an application in a new VPC behind a firewall. The user is concerned about data egress. You want to configure the fewest open egress ports. What should you do?**
@@ -3460,7 +3460,7 @@ https://cloud.google.com/vpc/docs/firewalls#default_firewall_rules
 </p>
 </details>
 
-###### 152.
+### 152.
 
 <span style>
 **Your company runs its Linux workloads on Compute Engine instances. Your company will be working with a new operations partner that does not use Google
@@ -3483,7 +3483,7 @@ Accounts. You need to grant access to the instances to your operations partner s
 </p>
 </details>
 
-###### 153.
+### 153.
 
 <span style>
 **You have created a code snippet that should be triggered whenever a new file is uploaded to a Cloud Storage bucket. You want to deploy this code snippet. What should you do? **
@@ -3505,7 +3505,7 @@ https://cloud.google.com/functions/docs/calling/storage
 </p>
 </details>
 
-###### 154.
+### 154.
 
 <span style>
 **You have been asked to set up Object Lifecycle Management for objects stored in storage buckets. The objects are written once and accessed frequently for 30 days. After 30 days, the objects are not read again unless there is a special need. The objects should be kept for three years, and you need to minimize cost.
@@ -3528,7 +3528,7 @@ https://cloud.google.com/storage/docs/storage-classes#standard
 </p>
 </details>
 
-###### 155.
+### 155.
 
 <span style>
 **You are storing sensitive information in a Cloud Storage bucket. For legal reasons, you need to be able to record all requests that read any of the stored data. You want to make sure you comply with these requirements. What should you do?**
@@ -3551,7 +3551,7 @@ https://cloud.google.com/storage/docs/audit-logs#types
 </details>
 
 
-###### 156.
+### 156.
 
 <span style>
 **You are the team lead of a group of 10 developers. You provided each developer with an individual Google Cloud Project that they can use as their personal sandbox to experiment with different Google Cloud solutions. You want to be notified if any of the developers are spending above $500 per month on their sandbox environment. What should you do?**
@@ -3573,7 +3573,7 @@ https://cloud.google.com/billing/docs/how-to/budgets#budget-scop
 </p>
 </details>
 
-###### 157.
+### 157.
 
 <span style>
 **You are deploying a production application on Compute Engine. You want to prevent anyone from accidentally destroying the instance by clicking the wrong button. What should you do?**
@@ -3595,7 +3595,7 @@ https://cloud.google.com/compute/docs/instances/preventing-accidental-vm-deletio
 </p>
 </details>
 
-###### 158.
+### 158.
 
 <span style>
 **Your company uses a large number of Google Cloud services centralized in a single project. All teams have specific projects for testing and development. The
@@ -3618,7 +3618,7 @@ https://cloud.google.com/iam/docs/understanding-custom-roles#basic_concepts
 </p>
 </details>
 
-###### 159.
+### 159.
 
 <span style>
 **You are building an application that processes data files uploaded from thousands of suppliers. Your primary goals for the application are data security and the expiration of aged data. You need to design the application to:
@@ -3645,7 +3645,7 @@ A https://cloud.google.com/storage/docs/lifecycle#delete
 </p>
 </details>
 
-###### 160.
+### 160.
 
 <span style>
 **Your company wants to standardize the creation and management of multiple Google Cloud resources using Infrastructure as Code. You want to minimize the amount of repetitive code needed to manage the environment. What should you do?**
@@ -3668,7 +3668,7 @@ https://cloud.google.com/deployment-manager/docs/quickstart
 </p>
 </details>
 
-###### 161.
+### 161.
 
 <span style>
 **You are performing a monthly security check of your Google Cloud environment and want to know who has access to view data stored in your Google Cloud Project. 
@@ -3691,7 +3691,7 @@ https://cloud.google.com/compute/docs/access
 </p>
 </details>
 
-###### 162.
+### 162.
 
 <span style>
 **Your company has embraced a hybrid cloud strategy where some of the applications are deployed on Google Cloud. A Virtual Private Network (VPN) tunnel connects your Virtual Private Cloud (VPC) in Google Cloud with your company’s on-premises network. Multiple applications in Google Cloud need to connect to an on-premises database server, and you want to avoid having to change the IP configuration in all of your applications when the IP of the database changes.
@@ -3714,7 +3714,7 @@ https://cloud.google.com/dns/docs/best-practices
 </p>
 </details>
 
-###### 163.
+### 163.
 
 <span style>
 **You have developed a containerized web application that will serve internal colleagues during business hours. You want to ensure that no costs are incurred outside of the hours the application is used. You have just created a new Google Cloud project and want to deploy the application. What should you do?**
@@ -3736,7 +3736,7 @@ https://cloud.google.com/run/docs/about-instance-autoscaling
 </p>
 </details>
 
-###### 164.
+### 164.
 
 <span style>
 **You have experimented with Google Cloud using your own credit card and expensed the costs to your company. Your company wants to streamline the billing process and charge the costs of your projects to their monthly invoice. What should you do?**
@@ -3758,7 +3758,7 @@ https://cloud.google.com/run/docs/about-instance-autoscaling
 </p>
 </details>
 
-###### 165.
+### 165.
 
 <span style>
 **You are running a data warehouse on BigQuery. A partner company is offering a recommendation engine based on the data in your data warehouse. The partner company is also running their application on Google Cloud. They manage the resources in their own project, but they need access to the BigQuery dataset in your project. You want to provide the partner company with access to the dataset. What should you do?**
@@ -3780,7 +3780,7 @@ https://cloud.google.com/run/docs/about-instance-autoscaling
 </p>
 </details>
 
-###### 166.
+### 166.
 
 <span style>
 **Your web application has been running successfully on Cloud Run for Anthos. You want to evaluate an updated version of the application with a specific percentage of your production users (canary deployment). What should you do?**
@@ -3803,7 +3803,7 @@ https://cloud.google.com/kuberun/docs/rollouts-rollbacks-traffic-migration
 </details>
 
 
-###### 167.
+### 167.
 
 <span style>
 **Your company developed a mobile game that is deployed on Google Cloud. Gamers are connecting to the game with their personal phones over the Internet. The game sends UDP packets to update the servers about the gamer’s actions while they are playing in multiplayer mode. Your game backend can scale over multiple virtual machines (VMs), and you want to expose the VMs over a single IP address. What should you do?**
@@ -3825,7 +3825,7 @@ https://cloud.google.com/load-balancing/docs/network
 </p>
 </details>
 
-###### 168.
+### 168.
 
 <span style>
 **You are working for a hospital that stores its medical images in an on-premises data room. The hospital wants to use Cloud Storage for archival storage of these images. The hospital wants an automated process to upload any new medical images to Cloud Storage. You need to design and implement a solution. What should you do?**
@@ -3847,7 +3847,7 @@ https://cloud.google.com/load-balancing/docs/network
 </p>
 </details>
 
-###### 169.
+### 169.
 
 <span style>
 **Your auditor wants to view your organization’s use of data in Google Cloud. The auditor is most interested in auditing who accessed data in Cloud Storage buckets. You need to help the auditor access the data they need. What should you do?**
@@ -3869,7 +3869,7 @@ https://cloud.google.com/load-balancing/docs/network
 </p>
 </details>
 
-###### 170.
+### 170.
 
 <span style>
 **You received a JSON file that contained a private key of a Service Account in order to get access to several resources in a Google Cloud project. You downloaded and installed the Cloud SDK and want to use this private key for authentication and authorization when performing gcloud commands. What should you do?**
@@ -3892,7 +3892,7 @@ https://cloud.google.com/sdk/docs/authorizing#authorizing_with_a_service_account
 </p>
 </details>
 
-###### 171.
+### 171.
 
 <span style>
 **You are working with a Cloud SQL MySQL database at your company. You need to retain a month-end copy of the database for three years for audit purposes.
@@ -3915,7 +3915,7 @@ https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 </p>
 </details>
 
-###### 172.
+### 172.
 
 <span style>
 **You are monitoring an application and receive user feedback that a specific error is spiking. You notice that the error is caused by a Service Account having insufficient permissions. You are able to solve the problem but want to be notified if the problem recurs. What should you do?**
@@ -3937,7 +3937,7 @@ https://cloud.google.com/logging/docs/logs-based-metrics/charts-and-alerts
 </p>
 </details>
 
-###### 173.
+### 173.
 
 <span style>
 **You are developing a financial trading application that will be used globally. Data is stored and queried using a relational structure, and clients from all over the world should get the exact identical state of the data. The application will be deployed in multiple regions to provide the lowest latency to end users. You need to select a storage option for the application data while minimizing latency. What should you do?**
@@ -3959,7 +3959,7 @@ https://cloud.google.com/solutions/best-practices-compute-engine-region-selectio
 </p>
 </details>
 
-###### 174.
+### 174.
 
 <span style>
 **You are about to deploy a new Enterprise Resource Planning (ERP) system on Google Cloud. The application holds the full database in-memory for fast data access, and you need to configure the most appropriate resources on Google Cloud for this application. What should you do?**
@@ -3981,7 +3981,7 @@ https://cloud.google.com/compute/docs/machine-types
 </p>
 </details>
 
-###### 175.
+### 175.
 
 <span style>
 **You have developed an application that consists of multiple microservices, with each microservice packaged in its own Docker container image. You want to deploy the entire application on Google Kubernetes Engine so that each microservice can be scaled individually. What should you do?**
@@ -4003,7 +4003,7 @@ https://cloud.google.com/compute/docs/machine-types
 </p>
 </details>
 
-###### 176.
+### 176.
 
 <span style>
 **You will have several applications running on different Compute Engine instances in the same project. You want to specify at a more granular level the service account each instance uses when calling Google Cloud APIs. What should you do?**
@@ -4025,7 +4025,7 @@ https://cloud.google.com/compute/docs/machine-types
 </p>
 </details>
 
-###### 177.
+### 177.
 
 <span style>
 **You are creating an application that will run on Google Kubernetes Engine. You have identified MongoDB as the most suitable database system for your application and want to deploy a managed MongoDB environment that provides a support SLA. What should you do?**
@@ -4048,7 +4048,7 @@ https://console.cloud.google.com/marketplace/details/gc-launcher-for-mongodb-atl
 </details>
 
 
-###### 178.
+### 178.
 
 <span style>
 **You are managing a project for the Business Intelligence (BI) department in your company. A data pipeline ingests data into BigQuery via streaming. You want the users in the BI department to be able to run the custom SQL queries against the latest data in BigQuery. What should you do?**
@@ -4070,7 +4070,7 @@ https://console.cloud.google.com/marketplace/details/gc-launcher-for-mongodb-atl
 </p>
 </details>
 
-###### 179.
+### 179.
 
 <span style>
 **Your company is moving its entire workload to Compute Engine. Some servers should be accessible through the Internet, and other servers should only be accessible over the internal network. All servers need to be able to talk to each other over specific ports and protocols. The current on-premises network relies on a demilitarized zone (DMZ) for the public servers and a Local Area Network (LAN) for the private servers. You need to design the networking infrastructure on
