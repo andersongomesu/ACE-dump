@@ -55,7 +55,7 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
       
 </p>
 </details>
-Check out [this link][website] if you want to check or propose another answer.
+Check out [this link][website] if you want to see or propose another answer.
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=2
 
@@ -80,6 +80,9 @@ https://cloud.google.com/vpc/docs/vpc#manually_created_subnet_ip_ranges
 
 </p>
 </details>
+Check out [this link][website] if you want to see or propose another answer.
+
+[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=4
 
 ###### 3.
 
@@ -102,6 +105,9 @@ https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 
 </p>
 </details>
+Check out [this link][website] if you want to see or propose another answer.
+
+[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=5
 
 ###### 4.
 
@@ -125,6 +131,9 @@ https://cloud.google.com/compute/docs/tutorials/high-availability-autohealing
 
 </p>
 </details>
+Check out [this link][website] if you want to see or propose another answer.
+
+[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=6
 
 ###### 5.
 
@@ -147,6 +156,9 @@ https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-con
 
 </p>
 </details>
+Check out [this link][website] if you want to see or propose another answer.
+
+[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=7
 
 ###### 6.
 
