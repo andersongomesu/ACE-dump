@@ -5,7 +5,18 @@ layout: default
 
 <link rel="shortcut icon" type="image/x-icon" 
       href="{{ "/assets/images/favicon.ico"  | absolute_url }}">
-      
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-188944973-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-188944973-1');
+</script>
+
 <div align="center">
  
 <h1>Google's Associate Cloud Engineer Dump</h1>
