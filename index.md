@@ -53,12 +53,11 @@ All the questions posted here come from real exams made by Google.
 
 https://cloud.google.com/compute/docs/instances/managing-instance-access
       
+</p>
+</details>
 Check out [this link][website] if you want to check or propose another answer.
 
 [website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=2
-
-</p>
-</details>
 
 ###### 2.
 
