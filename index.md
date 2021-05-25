@@ -17,22 +17,6 @@ layout: default
   gtag('config', 'UA-188944973-1');
 </script>
 
-<div align="center">
- 
-<h1>Google's Associate Cloud Engineer Dump</h1>
-
-<pre>
-All the questions posted here come from real exams made by Google.
-
-
-<b>DISCLAIMER:</b> Some answers may be wrong, just in case check them out for yourselves.
-
- 
- Last updated: <b>16th May 2021</b>
-</pre>
-</div>
-
-
 
 ###### 1.
 
