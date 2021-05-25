@@ -18,7 +18,7 @@ layout: default
 </script>
 
 
-###### 1.
+### 1.
 
 <span style>
 **Every employee of your company has a Google account. Your operational team needs to manage a large number of instances on Compute Engine. Each member of this team needs only administrative access to the servers. Your security team wants to ensure that the deployment of credentials is operationally efficient and must be able to determine who accessed a given instance. What should you do?**
