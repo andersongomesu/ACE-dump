@@ -186,7 +186,7 @@ Check out [this link][website6] if you want to see or propose another answer for
 
 <font size="3">D</font> 
 
-hhttps://www.whizlabs.com/blog/google-cloud-interview-questions/
+https://www.whizlabs.com/blog/google-cloud-interview-questions/
 
 </p>
 </details>
