@@ -41,7 +41,7 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
 </details>
 Check out [this link][website] if you want to see or propose another answer for the <span style>**Question #1**</span>.
 
-[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=2
+[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=3
 
 ### 2.
 
@@ -101,9 +101,9 @@ You need to configure re-creation of VMs if they are unresponsive after 3 attemp
 </span>
 
 
-- A: Create an HTTP load balancer with a backend configuration that references an existing instance group. Set the health check to healthy (HTTP)
+- A: Create an HTTP load balancer with a backend configuration that references an existing instance group. Set the health check to healthy (HTTP).
 - B: Create an HTTP load balancer with a backend configuration that references an existing instance group. Define a balancing mode and set the maximum RPS to 10.
-- C: Create a managed instance group. Set the Autohealing health check to healthy (HTTP)
+- C: Create a managed instance group. Set the Autohealing health check to healthy (HTTP).
 - D: Create a managed instance group. Verify that the autoscaling setting is on.
 
 <details><summary><b>Answer</b></summary>
@@ -151,10 +151,10 @@ Check out [this link][website] if you want to see or propose another answer.
 </span>
 
 
-- A: Multi-Regional Storage
-- B: Regional Storage
-- C: Nearline Storage
-- D: Coldline Storage
+- A: Multi-Regional Storage.
+- B: Regional Storage.
+- C: Nearline Storage.
+- D: Coldline Storage.
 
 <details><summary><b>Answer</b></summary>
 <p>
