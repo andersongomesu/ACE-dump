@@ -165,6 +165,9 @@ https://cloud.google.com/storage/docs/storage-classes#nearline
 
 </p>
 </details>
+Check out [this link][website6] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website6]: https://ace-dump-forum.com/viewtopic.php?f=3&t=8
 
 ### 7.
 
@@ -187,6 +190,9 @@ hhttps://www.whizlabs.com/blog/google-cloud-interview-questions/
 
 </p>
 </details>
+Check out [this link][website7] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website7]: https://ace-dump-forum.com/viewtopic.php?f=3&t=9
 
 ### 8.
 
@@ -209,6 +215,9 @@ hhttps://www.whizlabs.com/blog/google-cloud-interview-questions/
 
 </p>
 </details>
+Check out [this link][website8] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website8]: https://ace-dump-forum.com/viewtopic.php?f=3&t=10
 
 ### 9.
 
@@ -231,6 +240,9 @@ https://cloud.google.com/appengine/docs/standard/python/how-instances-are-manage
 
 </p>
 </details>
+Check out [this link][website9] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website9]: https://ace-dump-forum.com/viewtopic.php?f=3&t=11
 
 ### 10.
 
@@ -253,6 +265,9 @@ https://cloud.google.com/sdk/gcloud/reference/iam/roles/copy
 
 </p>
 </details>
+Check out [this link][website10] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website10]: https://ace-dump-forum.com/viewtopic.php?f=3&t=12
 
 ### 11.
 
@@ -275,6 +290,9 @@ https://cloud.google.com/deployment-manager?hl=en
 
 </p>
 </details>
+Check out [this link][website11] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website11]: https://ace-dump-forum.com/viewtopic.php?f=3&t=13
 
 ### 12.
 
@@ -297,6 +315,9 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
 
 </p>
 </details>
+Check out [this link][website12] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website12]: https://ace-dump-forum.com/viewtopic.php?f=3&t=14
 
 ### 13.
 
@@ -319,6 +340,9 @@ https://cloud.google.com/solutions/using-jenkins-for-distributed-builds-on-compu
 
 </p>
 </details>
+Check out [this link][website13] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website13]: https://ace-dump-forum.com/viewtopic.php?f=3&t=15
 
 ### 14.
 
@@ -341,6 +365,9 @@ https://cloud.google.com/sdk/gcloud/reference/deployment-manager/deployments/upd
 
 </p>
 </details>
+Check out [this link][website14] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website14]: https://ace-dump-forum.com/viewtopic.php?f=3&t=16
 
 ### 15.
 
@@ -363,6 +390,9 @@ https://cloud.google.com/bigquery/docs/estimate-costs
 
 </p>
 </details>
+Check out [this link][website15] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website15]: https://ace-dump-forum.com/viewtopic.php?f=3&t=17
 
 ### 16.
 
@@ -385,6 +415,9 @@ https://cloud.google.com/bigquery/docs/estimate-costs
 
 </p>
 </details>
+Check out [this link][website16] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website16]: https://ace-dump-forum.com/viewtopic.php?f=3&t=18
 
 ### 17.
 
@@ -407,6 +440,9 @@ https://cloud.google.com/bigquery/docs/estimate-costs
 
 </p>
 </details>
+Check out [this link][website17] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website17]: https://ace-dump-forum.com/viewtopic.php?f=3&t=19
 
 ### 18.
 
@@ -429,6 +465,9 @@ https://cloud.google.com/storage/docs/lifecycle#age
 
 </p>
 </details>
+Check out [this link][website18] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website18]: https://ace-dump-forum.com/viewtopic.php?f=3&t=20
 
 ### 19.
 
@@ -451,6 +490,9 @@ https://cloud.google.com/iam/docs/creating-managing-service-account-keys
 
 </p>
 </details>
+Check out [this link][website19] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website19]: https://ace-dump-forum.com/viewtopic.php?f=3&t=21
 
 ### 20.
 
@@ -473,6 +515,9 @@ https://medium.com/falafel-software/sql-server-in-the-google-cloud-a17e8a1f11ce
 
 </p>
 </details>
+Check out [this link][website20] if you want to see or propose another answer for the <span style>**Question #5**</span>.
+
+[website20]: https://ace-dump-forum.com/viewtopic.php?f=3&t=22
 
 ### 21.
 
