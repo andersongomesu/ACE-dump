@@ -39,9 +39,9 @@ https://cloud.google.com/compute/docs/instances/managing-instance-access
       
 </p>
 </details>
-Check out [this link][website] if you want to see or propose another answer for the <span style>**Question #1**</span>.
+Check out [this link][website1] if you want to see or propose another answer for the <span style>**Question #1**</span>.
 
-[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=3
+[website1]: https://ace-dump-forum.com/viewtopic.php?f=3&t=3
 
 ### 2.
 
@@ -64,9 +64,9 @@ https://cloud.google.com/vpc/docs/vpc#manually_created_subnet_ip_ranges
 
 </p>
 </details>
-Check out [this link][website] if you want to see or propose another answer the <span style>**Question #2**</span>.
+Check out [this link][website2] if you want to see or propose another answer for the <span style>**Question #2**</span>.
 
-[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=4
+[website2]: https://ace-dump-forum.com/viewtopic.php?f=3&t=4
 
 ### 3.
 
@@ -89,9 +89,9 @@ https://cloud.google.com/sql/docs/mysql/backup-recovery/backups
 
 </p>
 </details>
-Check out [this link][website] if you want to see or propose another answer the <span style>**Question #3**</span>.
+Check out [this link][website3] if you want to see or propose another answer for the <span style>**Question #3**</span>.
 
-[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=5
+[website3]: https://ace-dump-forum.com/viewtopic.php?f=3&t=5
 
 ### 4.
 
@@ -115,9 +115,9 @@ https://cloud.google.com/compute/docs/tutorials/high-availability-autohealing
 
 </p>
 </details>
-Check out [this link][website] if you want to see or propose another answer the <span style>**Question 4**</span>.
+Check out [this link][website4] if you want to see or propose another answer for the <span style>**Question 4**</span>.
 
-[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=6
+[website4]: https://ace-dump-forum.com/viewtopic.php?f=3&t=6
 
 ### 5.
 
@@ -140,9 +140,9 @@ https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-con
 
 </p>
 </details>
-Check out [this link][website] if you want to see or propose another answer the <span style>**Question #5**</span>.
+Check out [this link][website5] if you want to see or propose another answer for the <span style>**Question #5**</span>.
 
-[website]: https://ace-dump-forum.com/viewtopic.php?f=3&t=7
+[website5]: https://ace-dump-forum.com/viewtopic.php?f=3&t=7
 
 ### 6.
 
