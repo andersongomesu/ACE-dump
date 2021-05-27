@@ -30,7 +30,6 @@ All the questions posted here come from real exams made by Google.
  
  Last updated: <b>16th May 2021</b>
 </pre>
-</div>
 
 
 <em>If you wish to contribute to the maintenance of this page, you can do so by clicking on the following button:</em>
@@ -41,6 +40,7 @@ All the questions posted here come from real exams made by Google.
 <input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_ES/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</div>
 
 
 ### 1.
