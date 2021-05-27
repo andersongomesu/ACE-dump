@@ -301,10 +301,10 @@ Check out [this link][website10] if you want to see or propose another answer fo
 </span>
 
 
-- A: Deployment Manager
-- B: Cloud Composer
-- C: Managed Instance Group
-- D: Unmanaged Instance Group
+- A: Deployment Manager.
+- B: Cloud Composer.
+- C: Managed Instance Group.
+- D: Unmanaged Instance Group.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -605,10 +605,10 @@ Check out [this link][website22] if you want to see or propose another answer fo
   <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image1.jpg">
 </div>
 
-- A: Cloud Pub/Sub, Cloud Dataflow, Cloud Datastore, BigQuery
-- B: Firebase Messages, Cloud Pub/Sub, Cloud Spanner, BigQuery
-- C: Cloud Pub/Sub, Cloud Storage, BigQuery, Cloud Bigtable
-- D: Cloud Pub/Sub, Cloud Dataflow, Cloud Bigtable, BigQuery
+- A: Cloud Pub/Sub, Cloud Dataflow, Cloud Datastore, BigQuery.
+- B: Firebase Messages, Cloud Pub/Sub, Cloud Spanner, BigQuery.
+- C: Cloud Pub/Sub, Cloud Storage, BigQuery, Cloud Bigtable.
+- D: Cloud Pub/Sub, Cloud Dataflow, Cloud Bigtable, BigQuery.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -735,10 +735,10 @@ Check out [this link][website27] if you want to see or propose another answer fo
 </span>
 
 
-- A: Project Editor
-- B: Storage Admin
-- C: Storage Object Admin
-- D: Storage Object Creator
+- A: Project Editor.
+- B: Storage Admin.
+- C: Storage Object Admin.
+- D: Storage Object Creator.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -1173,7 +1173,7 @@ Check out [this link][website44] if you want to see or propose another answer fo
 - A: Run gcloud app restore.
 - B: On the App Engine page of the GCP Console, select the application that needs to be reverted and click Revert.
 - C: On the App Engine Versions page of the GCP Console, route 100% of the traffic to the previous version.
-- D: Deploy the original version as a separate application. Then go to App Engine settings and split traffic between applications so that the original version serves 100% of the requests
+- D: Deploy the original version as a separate application. Then go to App Engine settings and split traffic between applications so that the original version serves 100% of the requests.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -1220,7 +1220,7 @@ Check out [this link][website46] if you want to see or propose another answer fo
 </span>
 
 
-- A: Create an instance template for the instances. Set the “Automatic Restart” to on. Set the “On-host maintenance” to Migrate VM instance. Add the instance template to an instance group
+- A: Create an instance template for the instances. Set the “Automatic Restart” to on. Set the “On-host maintenance” to Migrate VM instance. Add the instance template to an instance group.
 - B: Create an instance template for the instances. Set “Automatic Restart” to off. Set “On-host maintenance” to Terminate VM instances. Add the instance template to an instance group.
 - C: Create an instance group for the instances. Set the “Autohealing” health check to healthy (HTTP).
 - D: Create an instance group for the instance. Verify that the “Advanced creation options” setting for “do not retry machine creation” is set to off.
@@ -1383,10 +1383,10 @@ What should you do?**
 </span>
 
 
-- A: 1. Create an ingress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.2.0/24), Protocols: allow all 2. Create an ingress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.1.0/24), Protocols: allow all
-- B: 1. Create an ingress firewall rule with the following settings: Targets: all instances with tier #2 service account, Source filter: all instances with tier #1 service account, Protocols: allow TCP:8080 2. Create an ingress firewall rule with the following settings: Targets: all instances with tier #3 service account, Source filter: all instances with tier #2 service account, Protocols: allow TCP: 8080
-- C: 1. Create an ingress firewall rule with the following settings: Targets: all instances with tier #2 service account, Source filter: all instances with tier #1 service account, Protocols: allow all 2. Create an ingress firewall rule with the following settings: Targets: all instances with tier #3 service account, Source filter: all instances with tier #2 service account, Protocols: allow all
-- D: 1. Create an egress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.2.0/24), Protocols: allow TCP: 8080 2. Create an egress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.1.0/24), Protocols: allow TCP: 8080
+- A: 1. Create an ingress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.2.0/24), Protocols: allow all 2. Create an ingress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.1.0/24), Protocols: allow all.
+- B: 1. Create an ingress firewall rule with the following settings: Targets: all instances with tier #2 service account, Source filter: all instances with tier #1 service account, Protocols: allow TCP:8080 2. Create an ingress firewall rule with the following settings: Targets: all instances with tier #3 service account, Source filter: all instances with tier #2 service account, Protocols: allow TCP: 8080.
+- C: 1. Create an ingress firewall rule with the following settings: Targets: all instances with tier #2 service account, Source filter: all instances with tier #1 service account, Protocols: allow all 2. Create an ingress firewall rule with the following settings: Targets: all instances with tier #3 service account, Source filter: all instances with tier #2 service account, Protocols: allow all.
+- D: 1. Create an egress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.2.0/24), Protocols: allow TCP: 8080 2. Create an egress firewall rule with the following settings: Targets: all instances, Source filter: IP ranges (with the range set to 10.0.1.0/24), Protocols: allow TCP: 8080.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -1508,10 +1508,10 @@ Check out [this link][website57] if you want to see or propose another answer fo
 </span>
 
 
-- A: Cloud SQL
-- B: Cloud Spanner
-- C: Cloud Firestore
-- D: Cloud Datastore
+- A: Cloud SQL.
+- B: Cloud Spanner.
+- C: Cloud Firestore.
+- D: Cloud Datastore.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -2781,10 +2781,10 @@ Check out [this link][website106] if you want to see or propose another answer f
 </span>
 
 
-- A: Cold Storage
-- B: Nearline Storage
-- C: Regional Storage
-- D: Multi-Regional Storage
+- A: Cold Storage.
+- B: Nearline Storage.
+- C: Regional Storage.
+- D: Multi-Regional Storage.
 
 <details><summary><b>Answer</b></summary>
 <p>
