@@ -436,7 +436,8 @@ Check out [this link][website15] if you want to see or propose another answer fo
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/container-options
+https://cloud.google.com/compute/docs/autoscaler#policies
 
 </p>
 </details>
@@ -562,7 +563,7 @@ Compute Engine instance in these two Google Cloud Platform accounts using the co
 
 <font size="3">A</font> 
 
-https://cloud.google.com/vpc/docs/vpc#manually_created_subnet_ip_ranges
+https://cloud.google.com/sdk/docs/configurations#activating_a_configuration
 
 </p>
 </details>
@@ -640,7 +641,8 @@ Check out [this link][website23] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/sdk/gcloud/reference/projects/create
+https://cloud.google.com/sdk/gcloud/reference/deployment-manager/deployments/create
 
 </p>
 </details>
@@ -746,7 +748,7 @@ Check out [this link][website27] if you want to see or propose another answer fo
 <font size="3">B</font> 
 
 https://cloud.google.com/storage/docs/access-control/iam-roles#standard-roles
-
+      
 </p>
 </details>
 Check out [this link][website28] if you want to see or propose another answer for the <span style>**Question #28**</span>.
@@ -846,7 +848,7 @@ Monitoring dashboard. What should you do?**
 
 <font size="3">C</font> 
 
-
+https://cloud.google.com/monitoring/workspaces/create#using-add
 
 </p>
 </details>
