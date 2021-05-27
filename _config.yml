@@ -1,3 +1,6 @@
+title: Google Associate Cloud Engineer Dump
+description: Google's Associate Cloud Engineer (ACE) exam question dump.
+image: https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/favicon.png
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
