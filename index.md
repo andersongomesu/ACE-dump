@@ -3488,8 +3488,8 @@ Check out [this link][website134] if you want to see or propose another answer f
 </span>
 
 
-- A: Using the Cloud SDK, create a new project, enable the Compute Engine API in that project, and then create the instance specifying your new projec
-- B: Enable the Compute Engine API in the Cloud Console, use the Cloud SDK to create the instance, and then use the --project flag to specify a new projec
+- A: Using the Cloud SDK, create a new project, enable the Compute Engine API in that project, and then create the instance specifying your new project.
+- B: Enable the Compute Engine API in the Cloud Console, use the Cloud SDK to create the instance, and then use the --project flag to specify a new project.
 - C: Using the Cloud SDK, create the new instance, and use the --project flag to specify the new project. Answer yes when prompted by Cloud SDK to enable the Compute Engine API.
 - D: Enable the Compute Engine API in the Cloud Console. Go to the Compute Engine section of the Console to create a new instance, and look for the Create In A New Project option in the creation form.
 
