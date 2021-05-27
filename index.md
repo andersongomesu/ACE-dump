@@ -4092,13 +4092,13 @@ Check out [this link][website158] if you want to see or propose another answer f
 ### 159.
 
 <span style>
-**You are building an application that processes data files uploaded from thousands of suppliers. Your primary goals for the application are data security and the expiration of aged data. You need to design the application to:
+**You are building an application that processes data files uploaded from thousands of suppliers. Your primary goals for the application are data security and the expiration of aged data. You need to design the application to:**
+</span>
 - Restrict access so that suppliers can access only their own data.
 - Give suppliers write access to data only for 30 minutes.
 - Delete data that is over 45 days old.
 You have a very short development cycle, and you need to make sure that the application requires minimal maintenance. Which two strategies should you use?
-(Choose two.)**
-</span>
+(Choose two.)
 
 
 - A: Build a lifecycle policy to delete Cloud Storage objects after 45 days.
