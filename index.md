@@ -2877,7 +2877,7 @@ Check out [this link][website110] if you want to see or propose another answer f
 ### 111.
 
 <span style>
-**YYour management has asked an external auditor to review all the resources in a specific project. The security team has enabled the Organization Policy called
+**Your management has asked an external auditor to review all the resources in a specific project. The security team has enabled the Organization Policy called
 Domain Restricted Sharing on the organization node by specifying only your Cloud Identity domain. You want the auditor to only be able to view, but not modify, the resources in that project. What should you do?**
 </span>
 
