@@ -898,7 +898,7 @@ Check out [this link][website33] if you want to see or propose another answer fo
 
 <font size="3">D</font> 
 
-
+https://stackoverflow.com/questions/54308199/how-do-i-give-myself-permission-to-create-clusterrolebindings-on-kubernetes
 
 </p>
 </details>
@@ -948,7 +948,7 @@ Check out [this link][website35] if you want to see or propose another answer fo
 
 <font size="3">C</font> 
 
-
+https://cloud.google.com/compute/docs/access/iam#compute.storageAdmin
 
 </p>
 </details>
@@ -973,7 +973,7 @@ Check out [this link][website36] if you want to see or propose another answer fo
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/appengine/docs/flexible/nodejs/managing-projects-apps-billing#create
 
 </p>
 </details>
@@ -998,7 +998,7 @@ Check out [this link][website37] if you want to see or propose another answer fo
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/spanner/docs/iam#roles
 
 </p>
 </details>
@@ -1157,7 +1157,7 @@ Check out [this link][website43] if you want to see or propose another answer fo
 
 <font size="3">C</font> 
 
-
+https://cloud.google.com/compute/docs/instances/preemptible
 
 </p>
 </details>
@@ -1257,7 +1257,7 @@ Check out [this link][website47] if you want to see or propose another answer fo
 
 <font size="3">C</font> 
 
-
+https://cloud.google.com/storage/docs/metadata#content-type
 
 </p>
 </details>
@@ -1282,7 +1282,7 @@ Check out [this link][website48] if you want to see or propose another answer fo
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type
 
 </p>
 </details>
@@ -1308,7 +1308,7 @@ VMs must be able to reach each other over Internal IP without creating additiona
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/vpc/docs/using-vpc#subnet-rules
 
 </p>
 </details>
@@ -1420,7 +1420,7 @@ Check out [this link][website53] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/compute/docs/instances/create-start-instance
 
 </p>
 </details>
@@ -1445,7 +1445,7 @@ Check out [this link][website54] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/logging/docs/api/v2/resource-list
 
 </p>
 </details>
@@ -1470,7 +1470,7 @@ Check out [this link][website55] if you want to see or propose another answer fo
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/appengine/docs/standard/python3/splitting-traffic#splitting_traffic_across_multiple_versions
 
 </p>
 </details>
@@ -1595,7 +1595,7 @@ Check out [this link][website60] if you want to see or propose another answer fo
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/solutions/exporting-stackdriver-logging-for-compliance-requirements#configure_object_lifecycle_management
 
 </p>
 </details>
@@ -1695,7 +1695,7 @@ Check out [this link][website64] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/run
 
 </p>
 </details>
@@ -1720,7 +1720,7 @@ Check out [this link][website65] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://medium.com/google-cloud/google-cloud-platform-cross-org-billing-41c5db8fefa6
 
 </p>
 </details>
@@ -1747,7 +1747,7 @@ You need a streamlined solution to grant the correct permissions to your support
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/monitoring/access-control#mon_roles_desc
 
 </p>
 </details>
@@ -1966,7 +1966,7 @@ Check out [this link][website74] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/sdk/gcloud/reference/services/list#--available
 
 </p>
 </details>
@@ -2195,7 +2195,7 @@ Check out [this link][website83] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/sdk/gcloud/reference/compute/instances/list
 
 </p>
 </details>
@@ -2295,7 +2295,7 @@ Check out [this link][website87] if you want to see or propose another answer fo
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/billing/docs/how-to/budgets
 
 </p>
 </details>
@@ -2371,7 +2371,7 @@ Cloud must be able to directly communicate to the workloads on-premises using a 
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/hybrid-connectivity
 
 </p>
 </details>
@@ -2506,7 +2506,8 @@ Check out [this link][website95] if you want to see or propose another answer fo
 
 <font size="3">B & E</font> 
 
-
+https://cloud.google.com/bigquery/docs/custom-quotas
+https://cloud.google.com/bigquery/pricing#flat_rate_pricing
 
 </p>
 </details>
@@ -2618,7 +2619,7 @@ Check out [this link][website99] if you want to see or propose another answer fo
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/iam/docs/understanding-roles#access-approval-roles
 
 </p>
 </details>
@@ -2643,7 +2644,7 @@ Check out [this link][website100] if you want to see or propose another answer f
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/compute/docs/instances/preventing-accidental-vm-deletion
 
 </p>
 </details>
@@ -2668,7 +2669,7 @@ Check out [this link][website101] if you want to see or propose another answer f
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/bigquery/docs/access-control#custom_roles
 
 </p>
 </details>
@@ -2818,7 +2819,7 @@ Check out [this link][website107] if you want to see or propose another answer f
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/kubernetes-engine/docs/how-to/gpus#gpu_pool
 
 </p>
 </details>
@@ -2919,7 +2920,7 @@ Check out [this link][website111] if you want to see or propose another answer f
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/compute/docs/disks/snapshot-best-practices
 
 </p>
 </details>
