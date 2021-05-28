@@ -2946,7 +2946,7 @@ Google Cloud Platform (GCP) Audit Logs and also to review your Data Access logs.
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/logging/docs/access-control#console_permissions
 
 </p>
 </details>
