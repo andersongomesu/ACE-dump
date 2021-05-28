@@ -3022,7 +3022,7 @@ Check out [this link][website115] if you want to see or propose another answer f
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/bigquery/docs/access-control-examples#read_access_to_data_in_a_different_project
 
 </p>
 </details>
@@ -3172,7 +3172,7 @@ Check out [this link][website121] if you want to see or propose another answer f
 
 <font size="3">B</font> 
 
-
+https://medium.com/google-cloud/how-to-deploy-cassandra-and-connect-on-google-cloud-platform-with-a-few-clicks-11ee3d7001d1
 
 </p>
 </details>
@@ -3222,7 +3222,7 @@ Check out [this link][website123] if you want to see or propose another answer f
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/spanner/docs/instances
 
 </p>
 </details>
@@ -3501,7 +3501,7 @@ Check out [this link][website134] if you want to see or propose another answer f
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/ai-platform/deep-learning-vm/docs/quickstart-cli#before-you-begin
 
 </p>
 </details>
@@ -3526,7 +3526,7 @@ Check out [this link][website135] if you want to see or propose another answer f
 
 <font size="3">C</font> 
 
-
+https://cloud.google.com/compute/docs/instances/preemptible#testing-preemption-settings
 
 </p>
 </details>
@@ -3551,7 +3551,7 @@ Check out [this link][website136] if you want to see or propose another answer f
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/solutions/using-jenkins-for-distributed-builds-on-compute-engine#installing_jenkins
 
 </p>
 </details>
@@ -3577,7 +3577,7 @@ What should you do?**
 
 <font size="3">A</font> 
 
-
+https://cloud.google.com/compute/docs/gcloud-compute#change_your_default_zone_and_region_in_the_metadata_server
 
 </p>
 </details>
@@ -3627,7 +3627,7 @@ Check out [this link][website139] if you want to see or propose another answer f
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/monitoring/workspaces
 
 </p>
 </details>
@@ -3753,7 +3753,7 @@ Check out [this link][website144] if you want to see or propose another answer f
 
 <font size="3">B</font> 
 
-
+https://cloud.google.com/kubernetes-engine/docs/tutorials/migrating-node-pool#creating_a_node_pool_with_large_machine_type
 
 </p>
 </details>
@@ -3932,7 +3932,7 @@ Accounts. You need to grant access to the instances to your operations partner s
 
 <font size="3">D</font> 
 
-
+https://cloud.google.com/compute/docs/instances/connecting-advanced#thirdpartytools
 
 </p>
 </details>
@@ -4342,7 +4342,7 @@ Check out [this link][website167] if you want to see or propose another answer f
 
 <font size="3">C</font> 
 
-
+https://stackoverflow.com/questions/37662416/how-to-sync-a-local-folder-with-a-folder-in-a-google-cloud-platform-bucket
 
 </p>
 </details>
