@@ -2437,7 +2437,7 @@ Check out [this link][website93] if you want to see or propose another answer fo
 </span>
 
 <div align="center">
-  <img height="50" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image6.jpg">
+  <img height="60" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image6.jpg">
 </div>
 
 <span style>
