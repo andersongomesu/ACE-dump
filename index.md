@@ -1872,7 +1872,7 @@ Check out [this link][website71] if you want to see or propose another answer fo
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image5.jpg">
+  <img height="200" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image5.jpg">
 </div>
 
 <span style>
@@ -2163,7 +2163,7 @@ Check out [this link][website82] if you want to see or propose another answer fo
 - A: Enable Cloud Identity in the GCP Console for your domain.
 - B: Grant them the required IAM roles using their G Suite email address.
 - C: Create a CSV sheet with all users email addresses. Use the gcloud command line tool to convert them into Google Cloud Platform accounts.
-- D: n the G Suite console, add the users to a special group called cloud-console-users@yourdomain.com. Rely on the default behavior of the Cloud Platform to grant users access if they are members of this group.
+- D: In the G Suite console, add the users to a special group called cloud-console-users@yourdomain.com. Rely on the default behavior of the Cloud Platform to grant users access if they are members of this group.
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -2213,7 +2213,7 @@ Check out [this link][website84] if you want to see or propose another answer fo
 - A: Load data in Cloud Datastore and run a SQL query against it.
 - B: Create a BigQuery table and load data in BigQuery. Run a SQL query on this table and drop this table after you complete your request.
 - C: Create external tables in BigQuery that point to Cloud Storage buckets and run a SQL query on these external tables to complete your request.
-- D: 1Create a Hadoop cluster and copy the AVRO file to NDFS by compressing it. Load the file in a hive table and provide access to your analysts so that they can run SQL queries.
+- D: Create a Hadoop cluster and copy the AVRO file to NDFS by compressing it. Load the file in a hive table and provide access to your analysts so that they can run SQL queries.
 
 <details><summary><b>Answer</b></summary>
 <p>
