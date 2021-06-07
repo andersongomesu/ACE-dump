@@ -1872,7 +1872,7 @@ Check out [this link][website71] if you want to see or propose another answer fo
 </span>
 
 <div align="center">
-  <img height="75" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image5.jpg">
+  <img height="70" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image5.jpg">
 </div>
 
 <span style>
