@@ -2437,7 +2437,7 @@ Check out [this link][website93] if you want to see or propose another answer fo
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image6.jpg">
+  <img height="100" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image6.jpg">
 </div>
 
 <span style>
@@ -2547,7 +2547,7 @@ Check out [this link][website97] if you want to see or propose another answer fo
 </span>
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image7.jpg">
+  <img height="100" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image7.jpg">
 </div>
 
 <span style>
@@ -2561,7 +2561,7 @@ Check out [this link][website97] if you want to see or propose another answer fo
 - D: Create a secondary index using the following Data Definition Language (DDL): 
 
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image7.jpg">
+  <img height="100" src="https://raw.githubusercontent.com/ghodei/ACE-dump/main/assets/images/image7.jpg">
 </div>
 
 <details><summary><b>Answer</b></summary>
