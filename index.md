@@ -3943,7 +3943,7 @@ Check out [this link][website152] if you want to see or propose another answer f
 ### 153.
 
 <span style>
-**You have created a code snippet that should be triggered whenever a new file is uploaded to a Cloud Storage bucket. You want to deploy this code snippet. What should you do? **
+**You have created a code snippet that should be triggered whenever a new file is uploaded to a Cloud Storage bucket. You want to deploy this code snippet. What should you do?**
 </span>
 
 
