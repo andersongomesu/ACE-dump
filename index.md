@@ -3925,7 +3925,7 @@ Accounts. You need to grant access to the instances to your operations partner s
 - A: Enable Cloud IAP for the Compute Engine instances, and add the operations partner as a Cloud IAP Tunnel User.
 - B: Tag all the instances with the same network tag. Create a firewall rule in the VPC to grant TCP access on port 22 for traffic from the operations partner to instances with the network tag.
 - C: Set up Cloud VPN between your Google Cloud VPC and the internal network of the operations partner.
-- D: Set up Cloud VPN between your Google Cloud VPC and the internal network of the operations partner.
+- D: Ask the operations partner to generate SSH key pairs, and add the public keys to the VM instances.
 
 <details><summary><b>Answer</b></summary>
 <p>
